@@ -1,4 +1,4 @@
-# Estratégia de Conteúdo — Instagram Serviscon — Agosto de 2026
+# Planejamento Estratégico e Calendário — Instagram Serviscon — Agosto de 2026
 
 ## Fluxo executado
 - Etapa: Estrategista de Conteúdo.
