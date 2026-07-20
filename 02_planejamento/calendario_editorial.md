@@ -2,7 +2,7 @@
 
 ## Período
 - Mês/ano: Agosto de 2026
-- Campanha: Terceirização não é atalho; é método de gestão operacional.
+- Objetivo do período: Fortalecer autoridade, educar sobre terceirização e gerar oportunidades comerciais para a Serviscon.
 - Frequência planejada: 3 publicações no feed por semana e Stories diários.
 - Fonte de contexto: `01_contexto_do_cliente/briefing_do_cliente.md`
 
