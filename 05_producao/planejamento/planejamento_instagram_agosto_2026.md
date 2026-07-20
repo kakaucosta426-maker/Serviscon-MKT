@@ -1,4 +1,4 @@
-# Estratégia de Conteúdo — Instagram Serviscon — Agosto de 2026
+# FASE 2 — Estratégia Criativa e Calendário — Instagram Serviscon — Agosto de 2026
 
 ## Conformidade
 - Etapa anterior concluída: `05_producao/analises/analise_marketing_agosto_2026.md`.
