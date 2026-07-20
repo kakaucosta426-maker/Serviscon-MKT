@@ -2,16 +2,16 @@
 
 | ID | Tema | Formato | Gancho | CTA | Etapa | Responsável |
 |---|---|---|---|---|---|---|
-| P01 | Por que terceirizar serviços operacionais com gestão completa | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Salve este post. | Planejamento | Benefícios da terceirização |
-| P02 | Limpeza e conservação profissional | Reels | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Solicite um orçamento. | Planejamento | Serviços |
-| P03 | Mais de 12 anos e mais de 250 colaboradores | Post estático | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Fale com nossa equipe. | Planejamento | Autoridade |
-| P04 | O que está incluído na gestão dos serviços contratados | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Conheça nossos serviços. | Planejamento | Autoridade |
-| P05 | Bastidores das equipes em operação | Reels | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Entre em contato. | Planejamento | Bastidores |
-| P06 | Supervisão constante nas operações terceirizadas | Post estático | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Tire suas dúvidas conosco. | Planejamento | Gestão |
-| P07 | Portaria, recepção, copeiragem e manutenção predial | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Conheça nossos serviços. | Planejamento | Serviços |
-| P08 | Treinamento, segurança e qualificação profissional | Reels | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Compartilhe este conteúdo. | Planejamento | Pessoas |
-| P09 | Serviscon e Abralimp | Post estático | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Fale com nossa equipe. | Planejamento | Autoridade |
-| P10 | Benefícios para empresas e condomínios | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Salve este post. | Planejamento | Benefícios |
-| P11 | Jardinagem, paisagismo, pós-obra e soluções personalizadas | Reels | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Solicite um orçamento. | Planejamento | Serviços |
-| P12 | Perguntas frequentes sobre facilities | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Tire suas dúvidas conosco. | Planejamento | FAQ |
-| P13 | Resumo do mês: autoridade, bastidores e oportunidades | Carrossel | Uma operação terceirizada precisa de gestão, acompanhamento e qualidade. | Entre em contato. | Planejamento | Comercial |
+| P01 | O custo invisível de contratar “só uma pessoa” para resolver uma operação | Carrossel | O custo invisível de contratar “só uma pessoa” para resolver uma operação | Salve este post e envie para quem cuida da operação. | Planejamento | Benefícios da terceirização |
+| P02 | POV: o síndico percebe que limpeza não é só limpeza | Reels | POV: o síndico percebe que limpeza não é só limpeza | Fale com a equipe da Serviscon. | Planejamento | Limpeza profissional |
+| P03 | Checklist anti-dor de cabeça antes de terceirizar serviços | Carrossel | Checklist anti-dor de cabeça antes de terceirizar serviços | Comente “checklist” para lembrar de revisar antes de contratar. | Planejamento | Objeções e decisão |
+| P04 | 3 sinais de que sua operação está pedindo gestão, não improviso | Reels | 3 sinais de que sua operação está pedindo gestão, não improviso | Compartilhe com alguém que vive apagando incêndio. | Planejamento | Gestão operacional |
+| P05 | O que ninguém vê por trás de uma equipe terceirizada bem alinhada | Carrossel | O que ninguém vê por trás de uma equipe terceirizada bem alinhada | Salve para comparar com sua operação atual. | Planejamento | Bastidores e autoridade |
+| P06 | Terceirização inteligente não começa no preço. Começa no risco. | Post estático | Terceirização inteligente não começa no preço. Começa no risco. | Tire suas dúvidas conosco. | Planejamento | Objeções comerciais |
+| P07 | Facilities é quando o detalhe pequeno evita o problema grande | Carrossel | Facilities é quando o detalhe pequeno evita o problema grande | Conheça os serviços da Serviscon. | Planejamento | Serviços e soluções |
+| P08 | O crachá não aparece sozinho: existe seleção, integração e acompanhamento | Reels | O crachá não aparece sozinho: existe seleção, integração e acompanhamento | Compartilhe este conteúdo. | Planejamento | RH e colaboradores |
+| P09 | A limpeza profissional virou pauta de gestão — e não de improviso | Carrossel | A limpeza profissional virou pauta de gestão — e não de improviso | Fale com nossa equipe. | Planejamento | Autoridade setorial |
+| P10 | Se o visitante reparou na sujeira, a operação já chegou tarde | Reels | Se o visitante reparou na sujeira, a operação já chegou tarde | Solicite um orçamento. | Planejamento | Experiência e reputação |
+| P11 | Antes/depois que não precisa mostrar foto: sinais de uma operação organizada | Carrossel | Antes/depois que não precisa mostrar foto: sinais de uma operação organizada | Salve este post. | Planejamento | Organização operacional |
+| P12 | Perguntas que todo gestor deveria fazer antes de fechar facilities | Carrossel | Perguntas que todo gestor deveria fazer antes de fechar facilities | Comente sua principal dúvida sobre terceirização. | Planejamento | FAQ e decisão |
+| P13 | Resumo do mês: terceirização não é atalho, é método | Reels | Resumo do mês: terceirização não é atalho, é método | Entre em contato: (98) 98613-3076. | Planejamento | Comercial e posicionamento |

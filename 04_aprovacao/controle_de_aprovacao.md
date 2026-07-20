@@ -2,19 +2,19 @@
 
 | ID | Peça | Responsável interno | Enviado ao cliente em | Retorno do cliente | Ajustes solicitados | Status |
 |---|---|---|---|---|---|---|
-| P01 | Carrossel — Por que terceirizar serviços operacionais com gestão completa | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P02 | Reels — Limpeza e conservação profissional | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P03 | Post estático — Mais de 12 anos e mais de 250 colaboradores | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P04 | Carrossel — O que está incluído na gestão dos serviços contratados | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P05 | Reels — Bastidores das equipes em operação | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P06 | Post estático — Supervisão constante nas operações terceirizadas | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P07 | Carrossel — Portaria, recepção, copeiragem e manutenção predial | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P08 | Reels — Treinamento, segurança e qualificação profissional | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P09 | Post estático — Serviscon e Abralimp | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P10 | Carrossel — Benefícios para empresas e condomínios | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P11 | Reels — Jardinagem, paisagismo, pós-obra e soluções personalizadas | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P12 | Carrossel — Perguntas frequentes sobre facilities | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
-| P13 | Carrossel — Resumo do mês: autoridade, bastidores e oportunidades | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando envio para aprovação |
+| P01 | Carrossel — O custo invisível de contratar “só uma pessoa” para resolver uma operação | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P02 | Reels — POV: o síndico percebe que limpeza não é só limpeza | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P03 | Carrossel — Checklist anti-dor de cabeça antes de terceirizar serviços | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P04 | Reels — 3 sinais de que sua operação está pedindo gestão, não improviso | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P05 | Carrossel — O que ninguém vê por trás de uma equipe terceirizada bem alinhada | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P06 | Post estático — Terceirização inteligente não começa no preço. Começa no risco. | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P07 | Carrossel — Facilities é quando o detalhe pequeno evita o problema grande | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P08 | Reels — O crachá não aparece sozinho: existe seleção, integração e acompanhamento | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P09 | Carrossel — A limpeza profissional virou pauta de gestão — e não de improviso | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P10 | Reels — Se o visitante reparou na sujeira, a operação já chegou tarde | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P11 | Carrossel — Antes/depois que não precisa mostrar foto: sinais de uma operação organizada | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P12 | Carrossel — Perguntas que todo gestor deveria fazer antes de fechar facilities | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
+| P13 | Reels — Resumo do mês: terceirização não é atalho, é método | Social Media | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] | Aguardando aprovação interna e envio ao cliente |
 
 ## Regras de aprovação
 - Prazo padrão para retorno do cliente: [INFORMAÇÃO A PREENCHER]

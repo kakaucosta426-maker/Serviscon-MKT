@@ -1,39 +1,141 @@
-# Direção Visual — Instagram Serviscon — Agosto de 2026
+# FASE 4 — Direção de Arte — Agosto de 2026
 
-## Fluxo executado
-- Etapa: Designer.
-- Entrada utilizada: planejamento e copy de agosto de 2026.
+## Limitação de geração de imagem
+A ferramenta nativa de geração de imagem não está exposta neste ambiente. Conforme a instrução do skill `imagegen`, foram entregues prompts extremamente detalhados e prontos para geração, além da direção de arte completa para cada peça.
 
-## Sistema visual do mês
-- Paleta: azul-claro/ciano `#10AEE0` aproximado, azul-marinho `#061F49` aproximado, branco `#FFFFFF` e preto `#000000`. Confirmar códigos finais com arquivo original/manual de marca.
-- Estilo: corporativo, limpo, moderno, organizado e com alto contraste.
-- Tipografia: usar fonte sem serifa de boa legibilidade; nomes oficiais permanecem `[INFORMAÇÃO A PREENCHER]`.
-- Logo: não distorcer, não alterar proporções e não aplicar em fundo de baixo contraste.
+## Sistema visual
+- Cores: azul-claro/ciano `#10AEE0`, azul-marinho `#061F49`, branco `#FFFFFF`, preto `#000000`; códigos finais dependem do manual de marca.
+- Tipografia: sem serifa legível; nomes oficiais `[INFORMAÇÃO A PREENCHER]`.
+- Estilo: corporativo, limpo, com contraste alto, sem excesso de elementos.
+- Logo: aplicar sem distorção e com contraste adequado.
 
-## Direção por formato
-- Carrossel: capa com título direto, miolo com 1 ideia por tela, fechamento com CTA e contato.
-- Reels: capa estática com título curto; inserir legendas na tela; priorizar cenas autorizadas de operação, equipe ou apoio institucional.
-- Post estático: composição com título forte, apoio visual simples e assinatura da marca.
-- Stories: sequência de 3 a 5 telas com pergunta, dica, bastidor autorizado e CTA.
+## P01 — O custo invisível de contratar “só uma pessoa” para resolver uma operação
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “O custo invisível de contratar “só uma pessoa” para resolver uma operação”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “O custo invisível de contratar “só uma pessoa” para resolver uma operação” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “O custo invisível de contratar “só uma pessoa” para resolver uma operação”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
 
-## Entregáveis por peça
-| ID | Formato | Direção visual | Dimensões | Dependências |
-|---|---|---|---|---|
-| P01 | Carrossel | Visual institucional com hierarquia clara para o tema: Por que terceirizar serviços operacionais com gestão completa. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P02 | Reels | Visual institucional com hierarquia clara para o tema: Limpeza e conservação profissional. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P03 | Post estático | Visual institucional com hierarquia clara para o tema: Mais de 12 anos e mais de 250 colaboradores. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P04 | Carrossel | Visual institucional com hierarquia clara para o tema: O que está incluído na gestão dos serviços contratados. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P05 | Reels | Visual institucional com hierarquia clara para o tema: Bastidores das equipes em operação. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P06 | Post estático | Visual institucional com hierarquia clara para o tema: Supervisão constante nas operações terceirizadas. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P07 | Carrossel | Visual institucional com hierarquia clara para o tema: Portaria, recepção, copeiragem e manutenção predial. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P08 | Reels | Visual institucional com hierarquia clara para o tema: Treinamento, segurança e qualificação profissional. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P09 | Post estático | Visual institucional com hierarquia clara para o tema: Serviscon e Abralimp. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P10 | Carrossel | Visual institucional com hierarquia clara para o tema: Benefícios para empresas e condomínios. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P11 | Reels | Visual institucional com hierarquia clara para o tema: Jardinagem, paisagismo, pós-obra e soluções personalizadas. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P12 | Carrossel | Visual institucional com hierarquia clara para o tema: Perguntas frequentes sobre facilities. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
-| P13 | Carrossel | Visual institucional com hierarquia clara para o tema: Resumo do mês: autoridade, bastidores e oportunidades. | Feed 1080x1350; Reels/Stories 1080x1920 quando aplicável | Logo editável, imagens autorizadas e aprovação do cliente. |
+## P02 — POV: o síndico percebe que limpeza não é só limpeza
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “POV: o síndico percebe que limpeza não é só limpeza”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Reels for B2B facilities campaign. Primary request: create a clean corporate visual about “POV: o síndico percebe que limpeza não é só limpeza” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “POV: o síndico percebe que limpeza não é só limpeza”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
 
-## Arquivos finais esperados
-- Editáveis: `[A DEFINIR]`.
-- Exportação feed: `.png` ou `.jpg` em 1080x1350.
-- Exportação Reels/Stories: `.mp4` ou `.png` em 1080x1920.
+## P03 — Checklist anti-dor de cabeça antes de terceirizar serviços
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Checklist anti-dor de cabeça antes de terceirizar serviços”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “Checklist anti-dor de cabeça antes de terceirizar serviços” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Checklist anti-dor de cabeça antes de terceirizar serviços”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P04 — 3 sinais de que sua operação está pedindo gestão, não improviso
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “3 sinais de que sua operação está pedindo gestão, não improviso”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Reels for B2B facilities campaign. Primary request: create a clean corporate visual about “3 sinais de que sua operação está pedindo gestão, não improviso” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “3 sinais de que sua operação está pedindo gestão, não improviso”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P05 — O que ninguém vê por trás de uma equipe terceirizada bem alinhada
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “O que ninguém vê por trás de uma equipe terceirizada bem alinhada”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “O que ninguém vê por trás de uma equipe terceirizada bem alinhada” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “O que ninguém vê por trás de uma equipe terceirizada bem alinhada”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P06 — Terceirização inteligente não começa no preço. Começa no risco.
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Terceirização inteligente não começa no preço. Começa no risco.”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Post estático for B2B facilities campaign. Primary request: create a clean corporate visual about “Terceirização inteligente não começa no preço. Começa no risco.” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Terceirização inteligente não começa no preço. Começa no risco.”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P07 — Facilities é quando o detalhe pequeno evita o problema grande
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Facilities é quando o detalhe pequeno evita o problema grande”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “Facilities é quando o detalhe pequeno evita o problema grande” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Facilities é quando o detalhe pequeno evita o problema grande”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P08 — O crachá não aparece sozinho: existe seleção, integração e acompanhamento
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “O crachá não aparece sozinho: existe seleção, integração e acompanhamento”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Reels for B2B facilities campaign. Primary request: create a clean corporate visual about “O crachá não aparece sozinho: existe seleção, integração e acompanhamento” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “O crachá não aparece sozinho: existe seleção, integração e acompanhamento”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P09 — A limpeza profissional virou pauta de gestão — e não de improviso
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “A limpeza profissional virou pauta de gestão — e não de improviso”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “A limpeza profissional virou pauta de gestão — e não de improviso” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “A limpeza profissional virou pauta de gestão — e não de improviso”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P10 — Se o visitante reparou na sujeira, a operação já chegou tarde
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Se o visitante reparou na sujeira, a operação já chegou tarde”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Reels for B2B facilities campaign. Primary request: create a clean corporate visual about “Se o visitante reparou na sujeira, a operação já chegou tarde” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Se o visitante reparou na sujeira, a operação já chegou tarde”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P11 — Antes/depois que não precisa mostrar foto: sinais de uma operação organizada
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Antes/depois que não precisa mostrar foto: sinais de uma operação organizada”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “Antes/depois que não precisa mostrar foto: sinais de uma operação organizada” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Antes/depois que não precisa mostrar foto: sinais de uma operação organizada”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P12 — Perguntas que todo gestor deveria fazer antes de fechar facilities
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Perguntas que todo gestor deveria fazer antes de fechar facilities”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Carrossel for B2B facilities campaign. Primary request: create a clean corporate visual about “Perguntas que todo gestor deveria fazer antes de fechar facilities” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Perguntas que todo gestor deveria fazer antes de fechar facilities”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+
+## P13 — Resumo do mês: terceirização não é atalho, é método
+- Conceito visual: contraste entre improviso e método; transformar uma dor operacional em imagem clara e corporativa.
+- Layout: título forte no topo, imagem/ilustração central, apoio em bullets curtos, assinatura Serviscon no rodapé.
+- Texto da arte: “Resumo do mês: terceirização não é atalho, é método”
+- Hierarquia visual: 1º título; 2º cena ou símbolo operacional; 3º benefício/dor; 4º CTA discreto.
+- Tipografia: sem serifa bold para título, regular para apoio, caixa baixa para leitura humana.
+- Cores: fundo branco ou azul-marinho; destaque em `#10AEE0`; texto em `#061F49` ou branco conforme contraste.
+- Enquadramento: feed 1080x1350; Reels/Stories 1080x1920; manter área segura para legenda e interface do Instagram.
+- Prompt para geração de imagem: Use case: ads-marketing. Asset type: Instagram Reels for B2B facilities campaign. Primary request: create a clean corporate visual about “Resumo do mês: terceirização não é atalho, é método” for a Brazilian facilities outsourcing company. Scene/backdrop: modern office, condominium common area, reception or maintenance corridor, generic and without identifiable client logos. Subject: trained facilities professionals represented respectfully, with uniforms without fictional brand marks, supervision checklist, cleaning/portaria/maintenance cues depending on the theme. Style/medium: polished realistic editorial marketing image, clean composition, no exaggerated promises. Composition/framing: strong negative space for title, subject slightly off-center, professional environment, high legibility. Lighting/mood: bright, organized, trustworthy, efficient. Color palette: navy blue, cyan, white, neutral gray accents. Text verbatim if image tool supports reliable text: “Resumo do mês: terceirização não é atalho, é método”. Constraints: no fake client logos, no prices, no testimonials, no political or religious symbols, no distorted hands, no watermark.
+

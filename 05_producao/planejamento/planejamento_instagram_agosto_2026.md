@@ -1,50 +1,60 @@
-# Planejamento Estratégico e Calendário — Instagram Serviscon — Agosto de 2026
+# FASE 2 — Estratégia Criativa e Calendário — Instagram Serviscon — Agosto de 2026
 
-## Fluxo executado
-- Etapa: Estrategista de Conteúdo.
-- Entrada utilizada: análise em `05_producao/analises/analise_marketing_agosto_2026.md` e base do projeto.
+## Conformidade
+- Etapa anterior concluída: `05_producao/analises/analise_marketing_agosto_2026.md`.
+- Pesquisa externa realizada antes da criação de conteúdo.
 
-## Direção estratégica
-- Objetivo estratégico: fortalecer a autoridade da Serviscon, explicar terceirização com gestão completa e gerar oportunidades comerciais.
-- Posicionamento: empresa maranhense de terceirização de serviços e facilities, profissional, próxima e comprometida com qualidade operacional.
-- Mensagem central: a Serviscon entrega equipes treinadas, supervisão constante e gestão operacional para serviços essenciais.
+## Fontes externas pesquisadas em 20/07/2026
+- Mordor Intelligence — mercado brasileiro de facilities projetado em USD 54,76 bilhões em 2026 e USD 68,84 bilhões em 2031: https://www.mordorintelligence.com/pt/industry-reports/brazil-facility-management-market
+- Hootsuite — algoritmo do Instagram em 2026 e boas práticas por superfície: https://blog.hootsuite.com/instagram-algorithm/
+- Sprout Social — sinais de distribuição, visualizações, compartilhamentos/envios e relevância no Instagram 2026: https://sproutsocial.com/insights/instagram-algorithm/
+- Abralimp — portal institucional, cursos e conteúdo de limpeza profissional: https://abralimp.org.br/
+- InfraFM — limpeza profissional como protagonista de ambientes seguros, eficientes e saudáveis: https://www.infrafm.com.br/Textos/1/24333/A-nova-fronteira-da-limpeza-profissional
+- Higiclear — tendências de limpeza profissional em 2026, incluindo sustentabilidade e padronização: https://www.higiclear.com/artigos/tendencias-mercado-limpeza-profissional-2026/
+- Alura Empresas — tendências de RH 2026 e pressão por produtividade/capacidade no Brasil: https://www.alura.com.br/empresas/artigos/tendencias-para-rh-2026
+- Wellhub — tendências de RH 2026 no Brasil, bem-estar, cultura e tecnologia: https://wellhub.com/pt-br/blog/desenvolvimento-organizacional/tendencias-de-rh-2026/
+- Exame — digitalização do RH brasileiro e baixa maturidade tecnológica: https://exame.com/carreira/tendencias-de-rh-para-2026-pesquisa-revela-reengenharia-silenciosa-no-setor/
 
-## Pilares de conteúdo
-| Pilar | Função | Temas de agosto |
-|---|---|---|
-| Serviços e soluções | Apresentar portfólio | Limpeza, portaria, recepção, copeiragem, jardinagem, manutenção, elétricos e pós-obra |
-| Benefícios da terceirização | Educar decisores | Organização, tranquilidade, padronização e foco no negócio principal |
-| Autoridade e facilities | Reforçar confiança | Gestão operacional, Abralimp, experiência e equipe |
-| Bastidores e pessoas | Humanizar | Operação, treinamento, segurança e colaboradores |
-| Comercial e dúvidas | Gerar contato | FAQ, orçamento, canais comerciais e dúvidas frequentes |
+## Tendências aplicadas
+- Instagram 2026: priorizar Reels com primeira cena forte, carrosséis salváveis, compartilhamentos/envios privados, relevância por nicho e conversas qualificadas.
+- Limpeza profissional/facilities: profissionalização, padronização, sustentabilidade prática, tecnologia, treinamento e limpeza como componente de ambientes seguros e eficientes.
+- RH: foco em produtividade, bem-estar, experiência do colaborador, dados e redução de improviso operacional.
+- Abralimp/setor: educação, capacitação, boas práticas e fortalecimento da limpeza profissional.
 
-## Calendário de feed
-| ID | Data | Dia | Formato | Tema | Objetivo | Pilar | Responsável | Status | Observações |
-|---|---|---|---|---|---|---|---|---|---|
-| P01 | 03/08/2026 | Segunda | Carrossel | Por que terceirizar serviços operacionais com gestão completa | Educar sobre terceirização | Benefícios da terceirização | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P02 | 05/08/2026 | Quarta | Reels | Limpeza e conservação profissional | Apresentar serviço principal | Serviços | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P03 | 07/08/2026 | Sexta | Post estático | Mais de 12 anos e mais de 250 colaboradores | Credibilidade | Autoridade | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P04 | 10/08/2026 | Segunda | Carrossel | O que está incluído na gestão dos serviços contratados | Explicar gestão operacional | Autoridade | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P05 | 12/08/2026 | Quarta | Reels | Bastidores das equipes em operação | Humanizar | Bastidores | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P06 | 14/08/2026 | Sexta | Post estático | Supervisão constante nas operações terceirizadas | Reforçar diferencial | Gestão | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P07 | 17/08/2026 | Segunda | Carrossel | Portaria, recepção, copeiragem e manutenção predial | Apresentar portfólio | Serviços | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P08 | 19/08/2026 | Quarta | Reels | Treinamento, segurança e qualificação profissional | Valorizar colaboradores | Pessoas | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P09 | 21/08/2026 | Sexta | Post estático | Serviscon e Abralimp | Reforçar boas práticas | Autoridade | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P10 | 24/08/2026 | Segunda | Carrossel | Benefícios para empresas e condomínios | Educar decisores | Benefícios | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P11 | 26/08/2026 | Quarta | Reels | Jardinagem, paisagismo, pós-obra e soluções personalizadas | Divulgar serviços complementares | Serviços | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P12 | 28/08/2026 | Sexta | Carrossel | Perguntas frequentes sobre facilities | Responder objeções | FAQ | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
-| P13 | 31/08/2026 | Segunda | Carrossel | Resumo do mês: autoridade, bastidores e oportunidades | Consolidar e gerar contato | Comercial | Estrategista de Conteúdo | Planejado | Usar apenas dados confirmados e materiais aprovados. |
+## Tese da campanha
+**Terceirização não é atalho; é método de gestão operacional.**
 
-## Plano de Stories diários
-- Frequência: 01 sequência por dia, com 3 a 5 telas quando houver material.
-- Tema padrão de segunda a sexta: bastidor autorizado, dica sobre terceirização, serviço do dia, enquete simples ou chamada para contato.
-- Tema padrão de sábado e domingo: reforço institucional, lembrete de serviço, caixa de dúvidas ou conteúdo leve sobre organização e manutenção de ambientes.
-- Dependência: fotos, vídeos, agenda de treinamentos, registros de equipe e aprovações do cliente. Quando não houver material, usar cards institucionais com dados confirmados.
+## Territórios criativos
+1. Custo invisível do improviso.
+2. Bastidores que o cliente não vê, mas sente no resultado.
+3. Checklist de decisão para gestores e síndicos.
+4. Facilities como prevenção de problemas pequenos antes que virem grandes.
+5. Limpeza profissional como reputação, segurança e experiência.
 
-## CTAs do mês
-- Solicite um orçamento.
-- Fale com nossa equipe.
-- Entre em contato.
-- Conheça nossos serviços.
-- Salve este post.
-- Tire suas dúvidas conosco.
+## Calendário estratégico de feed
+| ID | Data | Formato | Ideia não óbvia | Objetivo | Por que pode viralizar/gerar compartilhamento | CTA |
+|---|---|---|---|---|---|---|
+| P01 | 03/08/2026 | Carrossel | O custo invisível de contratar “só uma pessoa” para resolver uma operação | Comparar mão de obra isolada vs gestão terceirizada | Usa tensão entre “barato agora” e “custo invisível”, tema que tende a gerar salvamentos e envios privados entre gestores. | Salve este post e envie para quem cuida da operação. |
+| P02 | 05/08/2026 | Reels | POV: o síndico percebe que limpeza não é só limpeza | Reposicionar limpeza como experiência, segurança e rotina | Formato POV facilita identificação rápida em Reels e conecta limpeza a experiência do usuário, não a tarefa operacional óbvia. | Fale com a equipe da Serviscon. |
+| P03 | 07/08/2026 | Carrossel | Checklist anti-dor de cabeça antes de terceirizar serviços | Gerar comentários com checklist prático | Checklist é naturalmente salvável e convida comentários sem depender de polêmica ou promessa. | Comente “checklist” para lembrar de revisar antes de contratar. |
+| P04 | 10/08/2026 | Reels | 3 sinais de que sua operação está pedindo gestão, não improviso | Criar identificação com gestores sobre falhas operacionais | Três sinais criam retenção curta e compartilhamento com gestores que reconhecem a dor de apagar incêndios. | Compartilhe com alguém que vive apagando incêndio. |
+| P05 | 12/08/2026 | Carrossel | O que ninguém vê por trás de uma equipe terceirizada bem alinhada | Mostrar bastidores de recrutamento, treinamento e supervisão | Mostra bastidor invisível, gerando curiosidade sobre processo e percepção de autoridade. | Salve para comparar com sua operação atual. |
+| P06 | 14/08/2026 | Post estático | Terceirização inteligente não começa no preço. Começa no risco. | Trabalhar objeção preço sem prometer economia | Quebra a objeção de preço com enquadramento de risco, uma tensão comercial forte para decisores. | Tire suas dúvidas conosco. |
+| P07 | 17/08/2026 | Carrossel | Facilities é quando o detalhe pequeno evita o problema grande | Apresentar portfólio por situações reais | Transforma lista de serviços em narrativa de prevenção, mais compartilhável que um post de portfólio tradicional. | Conheça os serviços da Serviscon. |
+| P08 | 19/08/2026 | Reels | O crachá não aparece sozinho: existe seleção, integração e acompanhamento | Valorizar pessoas e processos sem expor dados sensíveis | Humaniza colaboradores e processos de RH sem inventar histórias; bom para reputação e engajamento interno. | Compartilhe este conteúdo. |
+| P09 | 21/08/2026 | Carrossel | A limpeza profissional virou pauta de gestão — e não de improviso | Conectar tendências do setor à autoridade Serviscon/Abralimp | Conecta tendência de mercado, Abralimp e profissionalização; fortalece autoridade para público B2B. | Fale com nossa equipe. |
+| P10 | 24/08/2026 | Reels | Se o visitante reparou na sujeira, a operação já chegou tarde | Explorar impacto da primeira impressão | Usa uma frase visual forte sobre primeira impressão, boa para retenção nos primeiros segundos. | Solicite um orçamento. |
+| P11 | 26/08/2026 | Carrossel | Antes/depois que não precisa mostrar foto: sinais de uma operação organizada | Criar curiosidade com antes/depois conceitual e compartilhável | Reinventa antes/depois sem depender de imagens reais não autorizadas; gera curiosidade e salvamento. | Salve este post. |
+| P12 | 28/08/2026 | Carrossel | Perguntas que todo gestor deveria fazer antes de fechar facilities | Responder FAQ e gerar comentários | FAQ em formato de perguntas que o público usa para decidir; tende a gerar comentários qualificados. | Comente sua principal dúvida sobre terceirização. |
+| P13 | 31/08/2026 | Reels | Resumo do mês: terceirização não é atalho, é método | Consolidar campanha e gerar demanda comercial | Fecha o arco narrativo do mês com tese memorável e CTA comercial direto. | Entre em contato: (98) 98613-3076. |
+
+## Stories diários
+- Segunda: enquete de dor operacional relacionada ao post do dia.
+- Terça: dica rápida ou caixa de perguntas sobre terceirização.
+- Quarta: bastidor autorizado ou card “o que observar em uma operação”.
+- Quinta: quiz de facilities, limpeza, portaria ou manutenção.
+- Sexta: CTA comercial e resumo da semana.
+- Sábado/domingo: reforço institucional, serviço da semana e perguntas frequentes.
+
+## Observações de segurança
+Não usar memes com marcas, pessoas públicas, política, religião ou contexto ofensivo. Adaptar apenas estruturas de meme de forma corporativa, como “POV”, “sinais de que...” e “ninguém fala sobre...”.
