@@ -1,0 +1,751 @@
+{
+  "nome": "Catálogo inteligente do banco de imagens oficial da Serviscon",
+  "versao": "1.0",
+  "descricao": "Catálogo consolidado para o Designer localizar fotografias reais da Serviscon e para o n8n usar imagem.fotos_referencia[].arquivo nos pedidos de geração com imagem de referência.",
+  "regra_principal": "Sempre que existir fotografia real compatível, usar tipo_operacao gerar_com_imagem_de_referencia e não gerar pessoas por IA.",
+  "pasta_base": "03_base_de_conhecimento/banco_de_imagens",
+  "pasta_saida_artes": "05_producao/design/artes_geradas",
+  "total_fotografias": 16,
+  "categorias": {
+    "jardinagem": 2,
+    "portaria": 3,
+    "limpeza_e_conservacao": 9,
+    "supervisao_operacional": 2
+  },
+  "criterios_de_escolha": [
+    "servico",
+    "ambiente",
+    "atividade",
+    "enquadramento",
+    "iluminacao",
+    "qualidade",
+    "composicao",
+    "orientacao"
+  ],
+  "fotografias": [
+    {
+      "id": "JARD-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_001.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_001.json",
+      "categoria": "jardinagem",
+      "servico": "Jardinagem e paisagismo",
+      "ambiente": "Área externa ajardinada com palmeiras e canteiros",
+      "atividade": "Colaborador uniformizado em área verde, em contexto de conservação de jardim",
+      "equipamentos": [
+        "protetor facial",
+        "luvas",
+        "uniforme azul",
+        "ferramenta manual de jardinagem"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador da Serviscon em jardim externo, com uniforme azul e EPI facial, em cenário verde e ensolarado",
+      "palavras_chave": [
+        "jardinagem",
+        "paisagismo",
+        "área externa",
+        "EPI",
+        "colaborador",
+        "jardim"
+      ],
+      "possiveis_utilizacoes": [
+        "banner",
+        "feed horizontal",
+        "capa de carrossel",
+        "post institucional sobre jardinagem"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "luz natural em ambiente externo, com leitura clara da atividade",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "JARD-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.json",
+      "categoria": "jardinagem",
+      "servico": "Jardinagem e paisagismo",
+      "ambiente": "Área externa ajardinada próxima a via interna",
+      "atividade": "Roçagem/aparo de grama e conservação de canteiro",
+      "equipamentos": [
+        "roçadeira",
+        "protetor facial",
+        "protetor auricular",
+        "avental de proteção",
+        "botas",
+        "uniforme azul"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo",
+      "palavras_chave": [
+        "jardinagem",
+        "roçagem",
+        "paisagismo",
+        "EPI",
+        "área verde",
+        "manutenção externa"
+      ],
+      "possiveis_utilizacoes": [
+        "feed horizontal",
+        "banner",
+        "carrossel de serviços",
+        "post sobre segurança no trabalho"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "luz natural em ambiente externo, com leitura clara da atividade",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno amplo",
+      "atividade": "Limpeza mecanizada de piso",
+      "equipamentos": [
+        "lavadora/enceradeira de piso",
+        "placa de piso molhado",
+        "máscara",
+        "protetor auricular",
+        "luvas",
+        "uniforme azul"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador da Serviscon conduz máquina de limpeza de piso em corredor interno com sinalização de segurança",
+      "palavras_chave": [
+        "limpeza profissional",
+        "conservação",
+        "lavadora de piso",
+        "piso molhado",
+        "corredor",
+        "EPI"
+      ],
+      "possiveis_utilizacoes": [
+        "feed",
+        "banner",
+        "carrossel sobre limpeza profissional",
+        "post de bastidores"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_002.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_002.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno amplo",
+      "atividade": "Limpeza mecanizada de piso com máquina lavadora",
+      "equipamentos": [
+        "lavadora/enceradeira de piso",
+        "placa de piso molhado",
+        "máscara",
+        "protetor auricular",
+        "luvas",
+        "uniforme azul"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador operando máquina de limpeza em corredor interno, com placa de piso molhado visível",
+      "palavras_chave": [
+        "limpeza",
+        "conservação",
+        "máquina lavadora",
+        "segurança",
+        "piso molhado",
+        "facilities"
+      ],
+      "possiveis_utilizacoes": [
+        "banner",
+        "feed horizontal",
+        "capa de carrossel",
+        "anúncio de limpeza profissional"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-003",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_003.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_003.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno de circulação",
+      "atividade": "Limpeza manual de piso com mop",
+      "equipamentos": [
+        "mop",
+        "luvas",
+        "uniforme azul",
+        "botas"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "vertical",
+      "qualidade": "alta",
+      "descricao": "Colaboradora da Serviscon passando mop em piso interno claro, com uniforme azul e corredor ao fundo",
+      "palavras_chave": [
+        "limpeza",
+        "mop",
+        "conservação",
+        "colaboradora",
+        "piso",
+        "ambiente interno"
+      ],
+      "possiveis_utilizacoes": [
+        "stories",
+        "reels",
+        "post vertical",
+        "carrossel sobre limpeza diária"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-004",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_004.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_004.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno amplo",
+      "atividade": "Limpeza mecanizada de piso em plano aproximado",
+      "equipamentos": [
+        "lavadora/enceradeira de piso",
+        "placa de piso molhado",
+        "máscara",
+        "protetor auricular",
+        "luvas",
+        "uniforme azul"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador com máquina de limpeza em corredor interno, mostrando equipamento profissional e sinalização",
+      "palavras_chave": [
+        "limpeza mecanizada",
+        "equipamento",
+        "piso molhado",
+        "conservação",
+        "EPI"
+      ],
+      "possiveis_utilizacoes": [
+        "feed",
+        "banner",
+        "post técnico sobre equipamentos",
+        "carrossel de diferenciais"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-005",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Ambiente interno com áreas de atendimento",
+      "atividade": "Limpeza manual de piso com acompanhamento de supervisão",
+      "equipamentos": [
+        "mop",
+        "carrinho de limpeza",
+        "placa de piso molhado",
+        "rádio comunicador",
+        "luvas",
+        "uniformes azuis"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 2,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop",
+      "palavras_chave": [
+        "limpeza",
+        "supervisão",
+        "mop",
+        "equipe",
+        "carrinho de limpeza",
+        "piso molhado"
+      ],
+      "possiveis_utilizacoes": [
+        "feed",
+        "banner",
+        "carrossel sobre equipe treinada",
+        "post sobre supervisão e qualidade"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "composição de equipe em operação, útil para comunicar supervisão, treinamento e padronização"
+    },
+    {
+      "id": "LIMP-006",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno de circulação",
+      "atividade": "Sinalização de segurança para piso molhado",
+      "equipamentos": [
+        "placa de piso molhado"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 0,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Placa amarela de piso molhado em corredor interno, com fundo desfocado de circulação",
+      "palavras_chave": [
+        "segurança",
+        "piso molhado",
+        "sinalização",
+        "limpeza",
+        "prevenção",
+        "cuidado"
+      ],
+      "possiveis_utilizacoes": [
+        "banner",
+        "capa de carrossel",
+        "post educativo sobre segurança",
+        "stories"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "boa iluminação com fundo desfocado e destaque para o assunto principal",
+      "composicao": "objeto principal em destaque, útil para mensagem educativa, segurança e espaço para texto"
+    },
+    {
+      "id": "LIMP-007",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_007.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_007.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno de circulação",
+      "atividade": "Limpeza manual de piso com mop e carrinho",
+      "equipamentos": [
+        "mop",
+        "carrinho de limpeza",
+        "placa de piso molhado",
+        "luvas",
+        "uniforme azul",
+        "botas"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "vertical",
+      "qualidade": "alta",
+      "descricao": "Colaborador da Serviscon passando mop ao lado de carrinho e placa de piso molhado",
+      "palavras_chave": [
+        "limpeza",
+        "conservação",
+        "mop",
+        "carrinho",
+        "piso molhado",
+        "colaborador"
+      ],
+      "possiveis_utilizacoes": [
+        "stories",
+        "reels",
+        "post vertical",
+        "carrossel sobre rotina de limpeza"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-008",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_008.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_008.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno movimentado",
+      "atividade": "Limpeza manual de piso com mop em área de circulação",
+      "equipamentos": [
+        "mop",
+        "carrinho de limpeza",
+        "placa de piso molhado",
+        "luvas",
+        "uniforme azul",
+        "botas"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador da Serviscon realizando limpeza manual em corredor com pessoas ao fundo e sinalização de segurança",
+      "palavras_chave": [
+        "limpeza",
+        "corredor",
+        "mop",
+        "circulação",
+        "segurança",
+        "ambiente limpo"
+      ],
+      "possiveis_utilizacoes": [
+        "feed horizontal",
+        "banner",
+        "carrossel",
+        "post sobre continuidade operacional"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "LIMP-009",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_009.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_009.json",
+      "categoria": "limpeza_e_conservacao",
+      "servico": "Limpeza e conservação",
+      "ambiente": "Corredor interno movimentado",
+      "atividade": "Limpeza manual de piso com mop em área de circulação",
+      "equipamentos": [
+        "mop",
+        "carrinho de limpeza",
+        "placa de piso molhado",
+        "luvas",
+        "uniforme azul",
+        "botas"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaborador da Serviscon passando mop em corredor interno com carrinho e placa de segurança em primeiro plano",
+      "palavras_chave": [
+        "limpeza",
+        "mop",
+        "conservação",
+        "equipe treinada",
+        "piso",
+        "segurança"
+      ],
+      "possiveis_utilizacoes": [
+        "feed horizontal",
+        "banner",
+        "carrossel de limpeza profissional",
+        "post de bastidores"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "PORT-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.json",
+      "categoria": "portaria",
+      "servico": "Portaria",
+      "ambiente": "Entrada de estabelecimento comercial",
+      "atividade": "Porteiro posicionado em entrada, segurando rádio comunicador",
+      "equipamentos": [
+        "rádio comunicador",
+        "uniforme branco",
+        "crachá"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "vertical",
+      "qualidade": "alta",
+      "descricao": "Porteiro da Serviscon em pé na entrada de loja, com rádio comunicador e postura profissional",
+      "palavras_chave": [
+        "portaria",
+        "controle de acesso",
+        "rádio",
+        "uniforme",
+        "segurança",
+        "entrada"
+      ],
+      "possiveis_utilizacoes": [
+        "stories",
+        "reels",
+        "post vertical",
+        "carrossel sobre portaria"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "PORT-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_002.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_002.json",
+      "categoria": "portaria",
+      "servico": "Portaria",
+      "ambiente": "Entrada de estabelecimento comercial",
+      "atividade": "Porteiro em posição de monitoramento com rádio comunicador",
+      "equipamentos": [
+        "rádio comunicador",
+        "uniforme branco",
+        "crachá"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "vertical",
+      "qualidade": "alta",
+      "descricao": "Porteiro da Serviscon em entrada de loja, com uniforme branco e rádio, transmitindo segurança e organização",
+      "palavras_chave": [
+        "portaria",
+        "controle de acesso",
+        "shopping",
+        "rádio",
+        "segurança",
+        "atendimento"
+      ],
+      "possiveis_utilizacoes": [
+        "stories",
+        "reels",
+        "post sobre controle de acesso",
+        "capa vertical"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "PORT-003",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_003.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_003.json",
+      "categoria": "portaria",
+      "servico": "Portaria",
+      "ambiente": "Ambiente comercial interno",
+      "atividade": "Porteiro em close segurando rádio comunicador",
+      "equipamentos": [
+        "rádio comunicador",
+        "uniforme branco",
+        "crachá"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "vertical",
+      "qualidade": "alta",
+      "descricao": "Close de porteiro da Serviscon com rádio comunicador, uniforme branco e postura atenta",
+      "palavras_chave": [
+        "portaria",
+        "rádio",
+        "atendimento",
+        "segurança",
+        "controle",
+        "profissional"
+      ],
+      "possiveis_utilizacoes": [
+        "stories",
+        "post de autoridade em portaria",
+        "carrossel sobre atendimento e segurança"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "SUP-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_001.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_001.json",
+      "categoria": "supervisao_operacional",
+      "servico": "Supervisão operacional",
+      "ambiente": "Ambiente interno de circulação comercial",
+      "atividade": "Comunicação por rádio e acompanhamento de operação",
+      "equipamentos": [
+        "rádio comunicador",
+        "colete/uniforme azul",
+        "crachá"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaboradora da Serviscon com rádio comunicador em ambiente interno, sugerindo supervisão ou coordenação de operação",
+      "palavras_chave": [
+        "supervisão",
+        "rádio",
+        "equipe",
+        "acompanhamento",
+        "operação",
+        "comunicação"
+      ],
+      "possiveis_utilizacoes": [
+        "post sobre gestão operacional",
+        "stories",
+        "carrossel sobre supervisão"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    },
+    {
+      "id": "SUP-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+      "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.json",
+      "categoria": "supervisao_operacional",
+      "servico": "Supervisão operacional",
+      "ambiente": "Ambiente interno de circulação comercial",
+      "atividade": "Comunicação por rádio em plano médio",
+      "equipamentos": [
+        "rádio comunicador",
+        "colete/uniforme azul",
+        "crachá"
+      ],
+      "uniforme": "Serviscon",
+      "colaboradores": 1,
+      "orientacao": "horizontal",
+      "qualidade": "alta",
+      "descricao": "Colaboradora usando rádio comunicador em ambiente interno, representando acompanhamento e comunicação operacional",
+      "palavras_chave": [
+        "supervisão",
+        "rádio",
+        "acompanhamento",
+        "gestão",
+        "comunicação",
+        "equipe"
+      ],
+      "possiveis_utilizacoes": [
+        "post sobre gestão operacional",
+        "carrossel de diferenciais",
+        "stories de bastidores"
+      ],
+      "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+      "restricoes": [
+        "não trocar colaborador",
+        "não alterar rosto ou identidade",
+        "não trocar uniforme",
+        "não substituir equipamentos reais",
+        "não inventar pessoas, clientes, resultados, selos ou certificações"
+      ],
+      "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+      "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+      "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+    }
+  ]
+}
