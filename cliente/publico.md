@@ -57,6 +57,10 @@
 - Cumprimento de contratos
 
 ## Dúvidas e dados a mapear
+- Critérios de contratação: Não informado pelo cliente
+- Processo comercial: Não informado pelo cliente
+- Prazos de implantação: Não informado pelo cliente
+- Condições contratuais: Não informado pelo cliente
 - Critérios de contratação: [INFORMAÇÃO A PREENCHER]
 - Processo comercial: [INFORMAÇÃO A PREENCHER]
 - Prazos de implantação: [INFORMAÇÃO A PREENCHER]

@@ -3,6 +3,7 @@
 ## Identificação
 - Nome do cliente: Serviscon
 - Segmento de atuação: Terceirização de serviços e soluções em facilities
+- Responsável pelo contato: Responsável comercial da Serviscon não informado
 - Responsável pelo contato: [SEU NOME OU RESPONSÁVEL]
 - Canal principal: Instagram
 - Perfil do Instagram: @servisconterceirizacao
@@ -108,6 +109,10 @@
   - Responsabilidade social
   - Melhoria contínua
 - Personalidade da marca: Confiável, profissional, organizada, humana, próxima, moderna e comprometida com resultados.
+- Principais concorrentes: Não informado pelo cliente
+- Referências de comunicação: Empresas de facilities e limpeza profissional com comunicação corporativa, moderna, educativa e focada em autoridade.
+- Referências visuais: identidade visual da Serviscon extraída das imagens enviadas; usar azul-claro/ciano `#10AEE0` aproximado, azul-marinho `#061F49` aproximado, branco `#FFFFFF` e preto `#000000`; logo com símbolo abstrato em duas formas curvas complementares; tipografia sem serifa, pesada e arredondada no nome Serviscon; assinatura em caixa alta com espaçamento amplo.
+- Restrições legais, comerciais ou institucionais: Não informado pelo cliente
 - Principais concorrentes: [INFORMAÇÃO A PREENCHER]
 - Referências de comunicação: Empresas de facilities e limpeza profissional com comunicação corporativa, moderna, educativa e focada em autoridade.
 - Referências visuais: identidade visual da Serviscon extraída das imagens enviadas; usar azul-claro/ciano `#10AEE0` aproximado, azul-marinho `#061F49` aproximado, branco `#FFFFFF` e preto `#000000`; logo com símbolo abstrato em duas formas curvas complementares; tipografia sem serifa, pesada e arredondada no nome Serviscon; assinatura em caixa alta com espaçamento amplo.
