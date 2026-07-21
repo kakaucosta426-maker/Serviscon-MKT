@@ -14,6 +14,7 @@
 - Composição horizontal observada: símbolo à esquerda e nome Serviscon à direita, com assinatura abaixo do nome.
 - Versões observadas: colorida sobre fundo branco, monocromática azul-claro, monocromática azul-marinho, monocromática preta e versão branca.
 - Arquivo vetorial/editável do logo: Não informado pelo cliente
+- Arquivo vetorial/editável do logo: [INFORMAÇÃO A PREENCHER]
 
 ## Paleta de cores observada
 | Uso | Cor observada | HEX aproximado | Aplicação observada |
@@ -31,6 +32,9 @@
 - Nome exato da fonte do logotipo: Não informado pelo cliente
 - Nome exato da fonte da assinatura: Não informado pelo cliente
 - Fontes institucionais para posts, stories e demais peças: Não informado pelo cliente
+- Nome exato da fonte do logotipo: [INFORMAÇÃO A PREENCHER]
+- Nome exato da fonte da assinatura: [INFORMAÇÃO A PREENCHER]
+- Fontes institucionais para posts, stories e demais peças: [INFORMAÇÃO A PREENCHER]
 
 ## Regras para peças de Instagram
 - Priorizar contraste alto entre texto e fundo.
@@ -49,3 +53,5 @@
 - Bio observada em pesquisa: São Luís, MA; limpeza e conservação; WhatsApp (98) 98613-3076; e-mail comercial@serviscon.com.br.
 - Direção visual aplicada aos designers: usar azul institucional, azul-marinho e branco, estética corporativa limpa, moderna, profissional e com alto contraste.
 - Observação: a identidade visual deve ser confirmada com arquivos originais, manual de marca ou materiais oficiais do cliente quando disponíveis.
+- Área de respiro do logo: [INFORMAÇÃO A PREENCHER]
+- Tamanho mínimo de aplicação: [INFORMAÇÃO A PREENCHER]

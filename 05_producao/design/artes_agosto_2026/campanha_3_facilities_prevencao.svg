@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Campanha 3 — Facilities que previnem problemas</title>
+  <desc id="desc">Arte-base para Instagram da Serviscon com módulos de serviços de facilities conectados à prevenção.</desc>
+  <rect width="1080" height="1350" fill="#061F49"/>
+  <rect x="70" y="70" width="940" height="1210" rx="48" fill="#FFFFFF"/>
+  <text x="120" y="165" fill="#061F49" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">SERVISCON</text>
+  <text x="120" y="285" fill="#061F49" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900">Facilities é</text>
+  <text x="120" y="365" fill="#061F49" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900">prevenção</text>
+  <text x="120" y="438" fill="#10AEE0" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">o detalhe pequeno evita o problema grande</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#061F49">
+    <rect x="120" y="540" width="390" height="130" rx="28" fill="#EAF8FD" stroke="#10AEE0" stroke-width="4"/><text x="155" y="620">Limpeza</text>
+    <rect x="570" y="540" width="390" height="130" rx="28" fill="#EAF8FD" stroke="#10AEE0" stroke-width="4"/><text x="605" y="620">Portaria</text>
+    <rect x="120" y="725" width="390" height="130" rx="28" fill="#EAF8FD" stroke="#10AEE0" stroke-width="4"/><text x="155" y="805">Recepção</text>
+    <rect x="570" y="725" width="390" height="130" rx="28" fill="#EAF8FD" stroke="#10AEE0" stroke-width="4"/><text x="605" y="805">Manutenção</text>
+    <rect x="120" y="910" width="840" height="130" rx="28" fill="#061F49"/><text x="155" y="990" fill="#FFFFFF">Gestão operacional completa</text>
+  </g>
+  <path d="M315 670 V725 M765 670 V725 M510 975 H570" stroke="#10AEE0" stroke-width="8" stroke-linecap="round"/>
+  <text x="120" y="1150" fill="#061F49" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800">Conheça os serviços da Serviscon.</text>
+  <text x="120" y="1212" fill="#10AEE0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Limpeza • Portaria • Recepção • Manutenção • Facilities</text>
+</svg>
