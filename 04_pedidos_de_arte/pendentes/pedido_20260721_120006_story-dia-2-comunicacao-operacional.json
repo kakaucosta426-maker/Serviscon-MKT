@@ -1,0 +1,84 @@
+{
+  "id": "ARTE-20260721-STORY-006",
+  "status": "pendente",
+  "data_criacao": "2026-07-21T00:00:00-03:00",
+  "campanha": {
+    "nome": "Story Dia 2 - Comunicação operacional",
+    "objetivo": "Reforçar supervisão e comunicação na rotina de facilities",
+    "servico": "Supervisão operacional",
+    "publico": "Empresários, síndicos, administradores e gestores",
+    "canal": "Instagram"
+  },
+  "copy": {
+    "titulo": "Boa operação também depende de comunicação.",
+    "texto_apoio": "Acompanhamento próximo ajuda a corrigir rotas e manter o padrão.",
+    "cta": "Tire suas dúvidas conosco.",
+    "legenda": "Boa operação também depende de comunicação. Acompanhamento próximo ajuda a corrigir rotas e manter o padrão.",
+    "hashtags": [
+      "#Serviscon",
+      "#Facilities",
+      "#Terceirizacao"
+    ]
+  },
+  "design": {
+    "formato": "1080x1920",
+    "tipo_peca": "stories_instagram",
+    "conceito_visual": "Story vertical com fotografia real SUP-002 como base principal, estética corporativa limpa e áreas de leitura para título, apoio e CTA.",
+    "hierarquia_visual": [
+      "fotografia real como base",
+      "título em destaque no topo",
+      "texto de apoio em bloco curto",
+      "CTA no rodapé"
+    ],
+    "cores": [
+      "#061F49",
+      "#10AEE0",
+      "#FFFFFF"
+    ],
+    "observacoes": "Manter visual limpo, legível, com alto contraste e sem alterar colaborador, uniforme, rosto, equipamento ou atividade."
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "SUP-002",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+        "categoria": "supervisao_operacional",
+        "descricao": "Colaboradora usando rádio comunicador em ambiente interno, representando acompanhamento e comunicação operacional",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Utilize a fotografia real SUP-002 como base visual principal do story. A imagem mostra: Colaboradora usando rádio comunicador em ambiente interno, representando acompanhamento e comunicação operacional. Preserve integralmente identidade, rosto, características físicas, uniforme da Serviscon, logomarca presente no uniforme, equipamentos reais e atividade representada. Crie uma composição vertical 1080x1920 para Instagram Stories, com estética corporativa moderna, limpa e realista. Use azul-marinho #061F49, azul institucional #10AEE0 e branco #FFFFFF. Reserve área limpa no topo para o título: \"Boa operação também depende de comunicação.\". Posicione o texto de apoio em área de alta legibilidade: \"Acompanhamento próximo ajuda a corrigir rotas e manter o padrão.\". Posicione o CTA no rodapé: \"Tire suas dúvidas conosco.\". Melhore iluminação, nitidez, contraste e profundidade sem descaracterizar a fotografia. Não substituir colaborador por pessoa gerada por IA, não alterar rosto, não trocar uniforme, não inventar equipamentos, não inserir logomarcas incorretas e não descaracterizar a atividade.",
+    "restricoes": [
+      "Preservar o rosto e a identidade do colaborador quando houver pessoa na foto",
+      "Preservar o uniforme da Serviscon",
+      "Não substituir colaborador por pessoa gerada por IA",
+      "Não alterar a logomarca presente no uniforme",
+      "Não deformar mãos, rosto ou corpo",
+      "Manter aparência fotográfica realista",
+      "Não inventar clientes, resultados, selos ou certificações"
+    ],
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-2-comunicacao-operacional.png",
+    "foto_origem": {
+      "id": "SUP-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+      "descricao": "Colaboradora usando rádio comunicador em ambiente interno, representando acompanhamento e comunicação operacional"
+    }
+  },
+  "social_media": {
+    "plataforma": "Instagram Stories",
+    "data_sugerida": "Dia 2",
+    "objetivo_publicacao": "Reforçar confiança no acompanhamento"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
+  }
+}
