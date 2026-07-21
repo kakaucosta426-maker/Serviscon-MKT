@@ -1,0 +1,54 @@
+{
+  "id": "ARTE-20260721-001",
+  "status": "pendente",
+  "data_criacao": "2026-07-21T00:00:00-03:00",
+  "campanha": {
+    "nome": "Campanha de limpeza profissional",
+    "objetivo": "Apresentar limpeza e conservação como serviço principal da Serviscon",
+    "servico": "Limpeza e conservação",
+    "publico": "Empresários, síndicos, administradores e gestores",
+    "canal": "Instagram"
+  },
+  "copy": {
+    "titulo": "Limpeza profissional muda a rotina da empresa.",
+    "texto_apoio": "Equipe treinada, equipamento adequado e acompanhamento da qualidade.",
+    "cta": "Fale com a Serviscon.",
+    "legenda": "Limpeza e conservação profissional são o principal serviço da Serviscon, com equipe treinada, equipamentos adequados e supervisão.",
+    "hashtags": ["#Serviscon", "#LimpezaProfissional", "#Facilities"]
+  },
+  "design": {
+    "formato": "1080x1350",
+    "tipo_peca": "feed_instagram",
+    "conceito_visual": "Arte corporativa premium usando fotografia real de colaborador da Serviscon em operação de limpeza mecanizada.",
+    "hierarquia_visual": ["foto real como base", "titulo no topo", "texto de apoio no meio", "cta no rodapé"],
+    "cores": ["#061F49", "#10AEE0", "#FFFFFF"],
+    "observacoes": "Manter identidade visual limpa, moderna e com alto contraste."
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-001",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "descricao": "Colaborador da Serviscon conduz máquina de limpeza de piso em corredor interno com sinalização de segurança",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Utilize a fotografia real anexada do colaborador da Serviscon como elemento principal. Preserve integralmente o rosto, a identidade, o uniforme, a logomarca no uniforme e os equipamentos. Crie ao redor da fotografia uma composição publicitária corporativa, moderna e realista sobre terceirização de limpeza profissional. Integre o colaborador naturalmente ao novo cenário, sem substituí-lo por uma pessoa gerada por IA. Utilize azul-marinho, azul-claro e branco da identidade visual da Serviscon. Reserve área limpa no topo para o título e espaço discreto na parte inferior para o CTA.",
+    "restricoes": [
+      "Preservar o rosto e a identidade do colaborador",
+      "Preservar o uniforme da Serviscon",
+      "Não substituir o colaborador por pessoa gerada por IA",
+      "Não alterar a logomarca presente no uniforme",
+      "Não deformar mãos, rosto ou corpo",
+      "Manter aparência fotográfica realista"
+    ],
+    "arquivo_saida": "05_producao/design/artes_geradas/arte_limpeza_001.png"
+  },
+  "social_media": {
+    "plataforma": "Instagram",
+    "data_sugerida": "2026-08-05",
+    "objetivo_publicacao": "Apresentar serviço principal e gerar interesse comercial"
+  }
+}
