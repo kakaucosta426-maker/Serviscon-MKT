@@ -13,7 +13,7 @@
 - Composição principal observada: símbolo acima do nome Serviscon, com assinatura abaixo.
 - Composição horizontal observada: símbolo à esquerda e nome Serviscon à direita, com assinatura abaixo do nome.
 - Versões observadas: colorida sobre fundo branco, monocromática azul-claro, monocromática azul-marinho, monocromática preta e versão branca.
-- Arquivo vetorial/editável do logo: [INFORMAÇÃO A PREENCHER]
+- Arquivo vetorial/editável do logo: Não informado pelo cliente
 
 ## Paleta de cores observada
 | Uso | Cor observada | HEX aproximado | Aplicação observada |
@@ -28,9 +28,9 @@
 ## Tipografias observadas
 - Logotipo “Serviscon”: fonte sem serifa, pesada, arredondada, geométrica e com alto peso visual.
 - Assinatura “SOLUÇÕES EM SERVIÇOS”: fonte sem serifa, caixa alta, espaçamento amplo entre letras e peso mais leve que o logotipo.
-- Nome exato da fonte do logotipo: [INFORMAÇÃO A PREENCHER]
-- Nome exato da fonte da assinatura: [INFORMAÇÃO A PREENCHER]
-- Fontes institucionais para posts, stories e demais peças: [INFORMAÇÃO A PREENCHER]
+- Nome exato da fonte do logotipo: Não informado pelo cliente
+- Nome exato da fonte da assinatura: Não informado pelo cliente
+- Fontes institucionais para posts, stories e demais peças: Não informado pelo cliente
 
 ## Regras para peças de Instagram
 - Priorizar contraste alto entre texto e fundo.
@@ -41,5 +41,11 @@
 - Não distorcer o logo.
 - Não alterar proporções do símbolo ou do nome Serviscon.
 - Não aplicar o logo em fundos com baixo contraste.
-- Área de respiro do logo: [INFORMAÇÃO A PREENCHER]
-- Tamanho mínimo de aplicação: [INFORMAÇÃO A PREENCHER]
+- Área de respiro do logo: Não informado pelo cliente
+- Tamanho mínimo de aplicação: Não informado pelo cliente
+
+## Referência de Instagram
+- Perfil de referência: `@servisconterceirizacao`
+- Bio observada em pesquisa: São Luís, MA; limpeza e conservação; WhatsApp (98) 98613-3076; e-mail comercial@serviscon.com.br.
+- Direção visual aplicada aos designers: usar azul institucional, azul-marinho e branco, estética corporativa limpa, moderna, profissional e com alto contraste.
+- Observação: a identidade visual deve ser confirmada com arquivos originais, manual de marca ou materiais oficiais do cliente quando disponíveis.
