@@ -1,0 +1,47 @@
+{
+  "id": "LIMP-002",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_002.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_002.json",
+  "categoria": "limpeza_e_conservacao",
+  "servico": "Limpeza e conservação",
+  "ambiente": "Corredor interno amplo",
+  "atividade": "Limpeza mecanizada de piso com máquina lavadora",
+  "equipamentos": [
+    "lavadora/enceradeira de piso",
+    "placa de piso molhado",
+    "máscara",
+    "protetor auricular",
+    "luvas",
+    "uniforme azul"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Colaborador operando máquina de limpeza em corredor interno, com placa de piso molhado visível",
+  "palavras_chave": [
+    "limpeza",
+    "conservação",
+    "máquina lavadora",
+    "segurança",
+    "piso molhado",
+    "facilities"
+  ],
+  "possiveis_utilizacoes": [
+    "banner",
+    "feed horizontal",
+    "capa de carrossel",
+    "anúncio de limpeza profissional"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}

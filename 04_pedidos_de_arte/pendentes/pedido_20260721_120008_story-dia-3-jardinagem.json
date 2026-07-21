@@ -1,0 +1,84 @@
+{
+  "id": "ARTE-20260721-STORY-008",
+  "status": "pendente",
+  "data_criacao": "2026-07-21T00:00:00-03:00",
+  "campanha": {
+    "nome": "Story Dia 3 - Jardinagem",
+    "objetivo": "Apresentar jardinagem e paisagismo como solução complementar",
+    "servico": "Jardinagem e paisagismo",
+    "publico": "Empresários, síndicos, administradores e gestores",
+    "canal": "Instagram"
+  },
+  "copy": {
+    "titulo": "Áreas verdes também comunicam cuidado.",
+    "texto_apoio": "Jardinagem e paisagismo valorizam o ambiente e a experiência.",
+    "cta": "Conheça nossas soluções.",
+    "legenda": "Áreas verdes também comunicam cuidado. Jardinagem e paisagismo valorizam o ambiente e a experiência.",
+    "hashtags": [
+      "#Serviscon",
+      "#Facilities",
+      "#Terceirizacao"
+    ]
+  },
+  "design": {
+    "formato": "1080x1920",
+    "tipo_peca": "stories_instagram",
+    "conceito_visual": "Story vertical com fotografia real JARD-002 como base principal, estética corporativa limpa e áreas de leitura para título, apoio e CTA.",
+    "hierarquia_visual": [
+      "fotografia real como base",
+      "título em destaque no topo",
+      "texto de apoio em bloco curto",
+      "CTA no rodapé"
+    ],
+    "cores": [
+      "#061F49",
+      "#10AEE0",
+      "#FFFFFF"
+    ],
+    "observacoes": "Manter visual limpo, legível, com alto contraste e sem alterar colaborador, uniforme, rosto, equipamento ou atividade."
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "JARD-002",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+        "categoria": "jardinagem",
+        "descricao": "Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Utilize a fotografia real JARD-002 como base visual principal do story. A imagem mostra: Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo. Preserve integralmente identidade, rosto, características físicas, uniforme da Serviscon, logomarca presente no uniforme, equipamentos reais e atividade representada. Crie uma composição vertical 1080x1920 para Instagram Stories, com estética corporativa moderna, limpa e realista. Use azul-marinho #061F49, azul institucional #10AEE0 e branco #FFFFFF. Reserve área limpa no topo para o título: \"Áreas verdes também comunicam cuidado.\". Posicione o texto de apoio em área de alta legibilidade: \"Jardinagem e paisagismo valorizam o ambiente e a experiência.\". Posicione o CTA no rodapé: \"Conheça nossas soluções.\". Melhore iluminação, nitidez, contraste e profundidade sem descaracterizar a fotografia. Não substituir colaborador por pessoa gerada por IA, não alterar rosto, não trocar uniforme, não inventar equipamentos, não inserir logomarcas incorretas e não descaracterizar a atividade.",
+    "restricoes": [
+      "Preservar o rosto e a identidade do colaborador quando houver pessoa na foto",
+      "Preservar o uniforme da Serviscon",
+      "Não substituir colaborador por pessoa gerada por IA",
+      "Não alterar a logomarca presente no uniforme",
+      "Não deformar mãos, rosto ou corpo",
+      "Manter aparência fotográfica realista",
+      "Não inventar clientes, resultados, selos ou certificações"
+    ],
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-jardinagem.png",
+    "foto_origem": {
+      "id": "JARD-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+      "descricao": "Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo"
+    }
+  },
+  "social_media": {
+    "plataforma": "Instagram Stories",
+    "data_sugerida": "Dia 3",
+    "objetivo_publicacao": "Apresentar serviço complementar"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
+  }
+}

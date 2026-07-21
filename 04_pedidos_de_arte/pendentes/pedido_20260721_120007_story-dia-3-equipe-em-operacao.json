@@ -1,0 +1,84 @@
+{
+  "id": "ARTE-20260721-STORY-007",
+  "status": "pendente",
+  "data_criacao": "2026-07-21T00:00:00-03:00",
+  "campanha": {
+    "nome": "Story Dia 3 - Equipe em operação",
+    "objetivo": "Humanizar a marca e mostrar bastidores reais de limpeza",
+    "servico": "Limpeza e conservação",
+    "publico": "Empresários, síndicos, administradores e gestores",
+    "canal": "Instagram"
+  },
+  "copy": {
+    "titulo": "Qualidade aparece quando a operação tem método.",
+    "texto_apoio": "Equipe, orientação e equipamentos certos fazem diferença.",
+    "cta": "Acompanhe nossos bastidores.",
+    "legenda": "Qualidade aparece quando a operação tem método. Equipe, orientação e equipamentos certos fazem diferença.",
+    "hashtags": [
+      "#Serviscon",
+      "#Facilities",
+      "#Terceirizacao"
+    ]
+  },
+  "design": {
+    "formato": "1080x1920",
+    "tipo_peca": "stories_instagram",
+    "conceito_visual": "Story vertical com fotografia real LIMP-005 como base principal, estética corporativa limpa e áreas de leitura para título, apoio e CTA.",
+    "hierarquia_visual": [
+      "fotografia real como base",
+      "título em destaque no topo",
+      "texto de apoio em bloco curto",
+      "CTA no rodapé"
+    ],
+    "cores": [
+      "#061F49",
+      "#10AEE0",
+      "#FFFFFF"
+    ],
+    "observacoes": "Manter visual limpo, legível, com alto contraste e sem alterar colaborador, uniforme, rosto, equipamento ou atividade."
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-005",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "descricao": "Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Utilize a fotografia real LIMP-005 como base visual principal do story. A imagem mostra: Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop. Preserve integralmente identidade, rosto, características físicas, uniforme da Serviscon, logomarca presente no uniforme, equipamentos reais e atividade representada. Crie uma composição vertical 1080x1920 para Instagram Stories, com estética corporativa moderna, limpa e realista. Use azul-marinho #061F49, azul institucional #10AEE0 e branco #FFFFFF. Reserve área limpa no topo para o título: \"Qualidade aparece quando a operação tem método.\". Posicione o texto de apoio em área de alta legibilidade: \"Equipe, orientação e equipamentos certos fazem diferença.\". Posicione o CTA no rodapé: \"Acompanhe nossos bastidores.\". Melhore iluminação, nitidez, contraste e profundidade sem descaracterizar a fotografia. Não substituir colaborador por pessoa gerada por IA, não alterar rosto, não trocar uniforme, não inventar equipamentos, não inserir logomarcas incorretas e não descaracterizar a atividade.",
+    "restricoes": [
+      "Preservar o rosto e a identidade do colaborador quando houver pessoa na foto",
+      "Preservar o uniforme da Serviscon",
+      "Não substituir colaborador por pessoa gerada por IA",
+      "Não alterar a logomarca presente no uniforme",
+      "Não deformar mãos, rosto ou corpo",
+      "Manter aparência fotográfica realista",
+      "Não inventar clientes, resultados, selos ou certificações"
+    ],
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-equipe-em-operacao.png",
+    "foto_origem": {
+      "id": "LIMP-005",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+      "descricao": "Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop"
+    }
+  },
+  "social_media": {
+    "plataforma": "Instagram Stories",
+    "data_sugerida": "Dia 3",
+    "objetivo_publicacao": "Humanizar e mostrar bastidores reais"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
+  }
+}
