@@ -1,0 +1,43 @@
+{
+  "id": "SUP-001",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_001.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_001.json",
+  "categoria": "supervisao_operacional",
+  "servico": "Supervisão operacional",
+  "ambiente": "Ambiente interno de circulação comercial",
+  "atividade": "Comunicação por rádio e acompanhamento de operação",
+  "equipamentos": [
+    "rádio comunicador",
+    "colete/uniforme azul",
+    "crachá"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Colaboradora da Serviscon com rádio comunicador em ambiente interno, sugerindo supervisão ou coordenação de operação",
+  "palavras_chave": [
+    "supervisão",
+    "rádio",
+    "equipe",
+    "acompanhamento",
+    "operação",
+    "comunicação"
+  ],
+  "possiveis_utilizacoes": [
+    "post sobre gestão operacional",
+    "stories",
+    "carrossel sobre supervisão"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}

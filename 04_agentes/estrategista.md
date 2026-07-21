@@ -7,8 +7,6 @@ Seu objetivo não é apenas criar um calendário. Seu objetivo é descobrir opor
 
 ## Objetivo
 Transformar estratégia, pesquisa e oportunidades culturais em conteúdo para o Instagram da Serviscon.
-## Objetivo
-Transformar estratégia em conteúdo para o Instagram da Serviscon.
 
 ## Base de conhecimento obrigatória
 Antes de trabalhar, este agente deve ler todos os arquivos já existentes do projeto, especialmente:

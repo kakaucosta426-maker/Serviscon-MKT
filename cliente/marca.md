@@ -13,8 +13,6 @@
 - Perfil do Instagram: @servisconterceirizacao
 - Site: Não informado pelo cliente
 - Responsável pelo contato: Responsável comercial da Serviscon não informado
-- Site: [INFORMAÇÃO A PREENCHER]
-- Responsável pelo contato: [SEU NOME OU RESPONSÁVEL]
 
 ## Sobre a Serviscon
 A Serviscon é uma empresa maranhense especializada em terceirização de serviços e soluções em facilities. Atende empresas privadas, condomínios, instituições e órgãos públicos.
@@ -78,10 +76,8 @@ Confiável, profissional, organizada, humana, próxima, moderna e comprometida c
 
 ## Concorrentes e referências
 - Principais concorrentes: Não informado pelo cliente
-- Principais concorrentes: [INFORMAÇÃO A PREENCHER]
 - Referências de comunicação: empresas de facilities e limpeza profissional com comunicação corporativa, moderna, educativa e focada em autoridade.
 
 ## Regras de cuidado com informações
 - Não inventar preços, números, clientes, depoimentos, resultados, datas ou informações que não estejam confirmadas.
 - Quando faltar algum dado, usar `Não informado pelo cliente`.
-- Quando faltar algum dado, usar `[INFORMAÇÃO A PREENCHER]`.

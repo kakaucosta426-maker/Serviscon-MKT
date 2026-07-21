@@ -1,0 +1,42 @@
+{
+  "id": "LIMP-006",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.json",
+  "categoria": "limpeza_e_conservacao",
+  "servico": "Limpeza e conservação",
+  "ambiente": "Corredor interno de circulação",
+  "atividade": "Sinalização de segurança para piso molhado",
+  "equipamentos": [
+    "placa de piso molhado"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 0,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Placa amarela de piso molhado em corredor interno, com fundo desfocado de circulação",
+  "palavras_chave": [
+    "segurança",
+    "piso molhado",
+    "sinalização",
+    "limpeza",
+    "prevenção",
+    "cuidado"
+  ],
+  "possiveis_utilizacoes": [
+    "banner",
+    "capa de carrossel",
+    "post educativo sobre segurança",
+    "stories"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "boa iluminação com fundo desfocado e destaque para o assunto principal",
+  "composicao": "objeto principal em destaque, útil para mensagem educativa, segurança e espaço para texto"
+}
