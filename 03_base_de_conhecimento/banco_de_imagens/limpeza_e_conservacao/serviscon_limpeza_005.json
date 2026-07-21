@@ -1,0 +1,47 @@
+{
+  "id": "LIMP-005",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.json",
+  "categoria": "limpeza_e_conservacao",
+  "servico": "Limpeza e conservação",
+  "ambiente": "Ambiente interno com áreas de atendimento",
+  "atividade": "Limpeza manual de piso com acompanhamento de supervisão",
+  "equipamentos": [
+    "mop",
+    "carrinho de limpeza",
+    "placa de piso molhado",
+    "rádio comunicador",
+    "luvas",
+    "uniformes azuis"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 2,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop",
+  "palavras_chave": [
+    "limpeza",
+    "supervisão",
+    "mop",
+    "equipe",
+    "carrinho de limpeza",
+    "piso molhado"
+  ],
+  "possiveis_utilizacoes": [
+    "feed",
+    "banner",
+    "carrossel sobre equipe treinada",
+    "post sobre supervisão e qualidade"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+  "composicao": "composição de equipe em operação, útil para comunicar supervisão, treinamento e padronização"
+}
