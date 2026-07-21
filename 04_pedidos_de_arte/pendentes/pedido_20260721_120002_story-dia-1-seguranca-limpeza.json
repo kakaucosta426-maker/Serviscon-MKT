@@ -1,0 +1,68 @@
+{
+  "id": "ARTE-20260721-STORY-002",
+  "status": "pendente",
+  "data_criacao": "2026-07-21T00:00:00-03:00",
+  "campanha": {
+    "nome": "Story Dia 1 - Segurança na limpeza",
+    "objetivo": "Educar sobre segurança e sinalização na operação de limpeza",
+    "servico": "Limpeza e conservação",
+    "publico": "Empresários, síndicos, administradores e gestores",
+    "canal": "Instagram"
+  },
+  "copy": {
+    "titulo": "Cuidado também aparece nos detalhes.",
+    "texto_apoio": "Sinalização, atenção e padronização fazem parte da limpeza profissional.",
+    "cta": "Salve este lembrete.",
+    "legenda": "Cuidado também aparece nos detalhes. Sinalização, atenção e padronização fazem parte da limpeza profissional.",
+    "hashtags": [
+      "#Serviscon",
+      "#Facilities",
+      "#Terceirizacao"
+    ]
+  },
+  "design": {
+    "formato": "1080x1920",
+    "tipo_peca": "stories_instagram",
+    "conceito_visual": "Story vertical com fotografia real LIMP-006 como base principal, estética corporativa limpa e áreas de leitura para título, apoio e CTA.",
+    "hierarquia_visual": [
+      "fotografia real como base",
+      "título em destaque no topo",
+      "texto de apoio em bloco curto",
+      "CTA no rodapé"
+    ],
+    "cores": [
+      "#061F49",
+      "#10AEE0",
+      "#FFFFFF"
+    ],
+    "observacoes": "Manter visual limpo, legível, com alto contraste e sem alterar colaborador, uniforme, rosto, equipamento ou atividade."
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-006",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "descricao": "Placa amarela de piso molhado em corredor interno, com fundo desfocado de circulação",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Utilize a fotografia real LIMP-006 como base visual principal do story. A imagem mostra: Placa amarela de piso molhado em corredor interno, com fundo desfocado de circulação. Preserve integralmente identidade, rosto, características físicas, uniforme da Serviscon, logomarca presente no uniforme, equipamentos reais e atividade representada. Crie uma composição vertical 1080x1920 para Instagram Stories, com estética corporativa moderna, limpa e realista. Use azul-marinho #061F49, azul institucional #10AEE0 e branco #FFFFFF. Reserve área limpa no topo para o título: \"Cuidado também aparece nos detalhes.\". Posicione o texto de apoio em área de alta legibilidade: \"Sinalização, atenção e padronização fazem parte da limpeza profissional.\". Posicione o CTA no rodapé: \"Salve este lembrete.\". Melhore iluminação, nitidez, contraste e profundidade sem descaracterizar a fotografia. Não substituir colaborador por pessoa gerada por IA, não alterar rosto, não trocar uniforme, não inventar equipamentos, não inserir logomarcas incorretas e não descaracterizar a atividade.",
+    "restricoes": [
+      "Preservar o rosto e a identidade do colaborador quando houver pessoa na foto",
+      "Preservar o uniforme da Serviscon",
+      "Não substituir colaborador por pessoa gerada por IA",
+      "Não alterar a logomarca presente no uniforme",
+      "Não deformar mãos, rosto ou corpo",
+      "Manter aparência fotográfica realista",
+      "Não inventar clientes, resultados, selos ou certificações"
+    ],
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-1-seguranca-limpeza.png"
+  },
+  "social_media": {
+    "plataforma": "Instagram Stories",
+    "data_sugerida": "Dia 1",
+    "objetivo_publicacao": "Educar sobre boas práticas e segurança"
+  }
+}

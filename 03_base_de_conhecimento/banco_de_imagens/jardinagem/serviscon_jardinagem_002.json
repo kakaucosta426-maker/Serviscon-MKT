@@ -1,0 +1,47 @@
+{
+  "id": "JARD-002",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.json",
+  "categoria": "jardinagem",
+  "servico": "Jardinagem e paisagismo",
+  "ambiente": "Área externa ajardinada próxima a via interna",
+  "atividade": "Roçagem/aparo de grama e conservação de canteiro",
+  "equipamentos": [
+    "roçadeira",
+    "protetor facial",
+    "protetor auricular",
+    "avental de proteção",
+    "botas",
+    "uniforme azul"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo",
+  "palavras_chave": [
+    "jardinagem",
+    "roçagem",
+    "paisagismo",
+    "EPI",
+    "área verde",
+    "manutenção externa"
+  ],
+  "possiveis_utilizacoes": [
+    "feed horizontal",
+    "banner",
+    "carrossel de serviços",
+    "post sobre segurança no trabalho"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "luz natural em ambiente externo, com leitura clara da atividade",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}

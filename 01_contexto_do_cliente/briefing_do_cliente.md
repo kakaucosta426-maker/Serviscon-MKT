@@ -1,0 +1,134 @@
+# Briefing do Cliente
+
+## Identificação
+- Nome do cliente: Serviscon
+- Segmento de atuação: Terceirização de serviços e soluções em facilities
+- Responsável pelo contato: Responsável comercial da Serviscon não informado
+- Canal principal: Instagram
+- Perfil do Instagram: @servisconterceirizacao
+
+## Sobre o cliente
+- Descrição do negócio: A Serviscon é uma empresa especializada em terceirização de serviços e soluções em facilities, atuando há mais de 12 anos no mercado. Atende empresas privadas, condomínios, instituições e órgãos públicos, oferecendo equipes treinadas, supervisão operacional e gestão completa dos serviços contratados.
+- Produtos ou serviços principais:
+  - Limpeza e conservação
+  - Portaria
+  - Recepção
+  - Copeiragem
+  - Jardinagem e paisagismo
+  - Manutenção predial
+  - Serviços elétricos
+  - Limpeza pós-obra
+  - Facilities em geral
+- Diferenciais percebidos:
+  - Mais de 12 anos de mercado
+  - Mais de 250 colaboradores
+  - Supervisão constante das equipes
+  - Treinamento contínuo
+  - Atendimento personalizado
+  - Gestão operacional completa
+  - Primeira empresa do Maranhão associada à Abralimp
+  - Compromisso com qualidade, segurança e responsabilidade social
+- Região de atuação: Principalmente Maranhão, com foco em São Luís e região metropolitana.
+
+## Objetivos no Instagram
+- Objetivo principal: Fortalecer a autoridade da marca e gerar oportunidades comerciais.
+- Objetivos secundários:
+  - Apresentar os serviços
+  - Demonstrar a qualidade operacional
+  - Educar o mercado sobre terceirização
+  - Valorizar colaboradores
+  - Mostrar treinamentos e ações sociais
+  - Humanizar a marca
+  - Gerar confiança
+  - Atrair novos clientes
+- Prioridades do período:
+  - Aumentar o reconhecimento da marca
+  - Produzir conteúdos educativos
+  - Gerar mais contatos comerciais
+  - Mostrar bastidores e operações
+  - Destacar diferenciais competitivos
+
+## Público-alvo
+- Perfil do público: Empresários, síndicos, administradores de condomínios, gestores administrativos, responsáveis por compras, gestores de empresas privadas, órgãos públicos e instituições que precisam terceirizar serviços.
+- Dores:
+  - Falta de funcionários
+  - Alto turnover
+  - Problemas com gestão de equipes
+  - Falta de qualidade nos serviços
+  - Custos trabalhistas
+- Desejos:
+  - Redução de preocupações
+  - Equipes qualificadas
+  - Serviços padronizados
+  - Empresa confiável
+  - Atendimento rápido
+- Objeções:
+  - Medo de contratar uma empresa sem acompanhamento
+  - Dúvidas sobre qualidade
+  - Preço
+  - Cumprimento de contratos
+- Linguagem do público: Profissional, objetiva e de fácil compreensão.
+
+## Diretrizes de marca
+- Tom de voz: Profissional, simples, humano, próximo e sem textos genéricos.
+- Palavras ou temas permitidos:
+  - Qualidade
+  - Eficiência
+  - Confiança
+  - Profissionalismo
+  - Organização
+  - Excelência
+  - Supervisão
+  - Gestão
+  - Facilities
+  - Segurança
+  - Responsabilidade
+  - Treinamento
+  - Compromisso
+  - Solução
+  - Parceria
+  - Atendimento
+  - Terceirização inteligente
+- Palavras ou temas proibidos:
+  - Promessas exageradas
+  - Garantias absolutas
+  - Comparações ofensivas com concorrentes
+  - Conteúdo político
+  - Conteúdo religioso
+  - Linguagem agressiva
+  - Informações sem comprovação
+- Valores da empresa:
+  - Qualidade
+  - Ética
+  - Compromisso
+  - Responsabilidade
+  - Segurança
+  - Respeito às pessoas
+  - Desenvolvimento dos colaboradores
+  - Responsabilidade social
+  - Melhoria contínua
+- Personalidade da marca: Confiável, profissional, organizada, humana, próxima, moderna e comprometida com resultados.
+- Principais concorrentes: Não informado pelo cliente
+- Referências de comunicação: Empresas de facilities e limpeza profissional com comunicação corporativa, moderna, educativa e focada em autoridade.
+- Referências visuais: identidade visual da Serviscon extraída das imagens enviadas; usar azul-claro/ciano `#10AEE0` aproximado, azul-marinho `#061F49` aproximado, branco `#FFFFFF` e preto `#000000`; logo com símbolo abstrato em duas formas curvas complementares; tipografia sem serifa, pesada e arredondada no nome Serviscon; assinatura em caixa alta com espaçamento amplo.
+- Restrições legais, comerciais ou institucionais: Não informado pelo cliente
+
+## Diretrizes de publicação
+- Frequência de publicações: 3 publicações no feed por semana e Stories diários.
+- Formatos prioritários:
+  - Reels
+  - Carrosséis
+  - Cards informativos
+  - Bastidores
+  - Stories
+  - Cases
+  - Conteúdos educativos
+  - Conteúdos institucionais
+- CTAs mais utilizados:
+  - Solicite um orçamento.
+  - Fale com nossa equipe.
+  - Entre em contato.
+  - Conheça nossos serviços.
+  - Compartilhe este conteúdo.
+  - Salve este post.
+  - Tire suas dúvidas conosco.
