@@ -1,0 +1,45 @@
+{
+  "id": "JARD-001",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_001.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_001.json",
+  "categoria": "jardinagem",
+  "servico": "Jardinagem e paisagismo",
+  "ambiente": "Área externa ajardinada com palmeiras e canteiros",
+  "atividade": "Colaborador uniformizado em área verde, em contexto de conservação de jardim",
+  "equipamentos": [
+    "protetor facial",
+    "luvas",
+    "uniforme azul",
+    "ferramenta manual de jardinagem"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "horizontal",
+  "qualidade": "alta",
+  "descricao": "Colaborador da Serviscon em jardim externo, com uniforme azul e EPI facial, em cenário verde e ensolarado",
+  "palavras_chave": [
+    "jardinagem",
+    "paisagismo",
+    "área externa",
+    "EPI",
+    "colaborador",
+    "jardim"
+  ],
+  "possiveis_utilizacoes": [
+    "banner",
+    "feed horizontal",
+    "capa de carrossel",
+    "post institucional sobre jardinagem"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "horizontal com contexto amplo e uso prioritário para feed, banner ou capa de carrossel",
+  "iluminacao": "luz natural em ambiente externo, com leitura clara da atividade",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}
