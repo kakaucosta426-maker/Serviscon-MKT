@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-equipe-em-operacao.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-equipe-em-operacao.png",
+    "foto_origem": {
+      "id": "LIMP-005",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+      "descricao": "Dois colaboradores da Serviscon em rotina de limpeza, com uma pessoa orientando e outra passando mop"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 3",
     "objetivo_publicacao": "Humanizar e mostrar bastidores reais"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }

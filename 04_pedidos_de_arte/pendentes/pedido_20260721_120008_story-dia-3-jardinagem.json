@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-jardinagem.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-3-jardinagem.png",
+    "foto_origem": {
+      "id": "JARD-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+      "descricao": "Colaborador usando roçadeira em área ajardinada com flores, palmeiras e sinalização de velocidade ao fundo"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 3",
     "objetivo_publicacao": "Apresentar serviço complementar"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }

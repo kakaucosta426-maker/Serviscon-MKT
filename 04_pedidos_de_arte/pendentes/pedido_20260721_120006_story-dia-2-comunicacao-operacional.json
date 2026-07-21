@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-2-comunicacao-operacional.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-2-comunicacao-operacional.png",
+    "foto_origem": {
+      "id": "SUP-002",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+      "descricao": "Colaboradora usando rádio comunicador em ambiente interno, representando acompanhamento e comunicação operacional"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 2",
     "objetivo_publicacao": "Reforçar confiança no acompanhamento"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }

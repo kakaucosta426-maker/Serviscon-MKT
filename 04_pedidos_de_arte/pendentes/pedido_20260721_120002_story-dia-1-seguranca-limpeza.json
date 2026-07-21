@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-1-seguranca-limpeza.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-1-seguranca-limpeza.png",
+    "foto_origem": {
+      "id": "LIMP-006",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.jpg",
+      "descricao": "Placa amarela de piso molhado em corredor interno, com fundo desfocado de circulação"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 1",
     "objetivo_publicacao": "Educar sobre boas práticas e segurança"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }

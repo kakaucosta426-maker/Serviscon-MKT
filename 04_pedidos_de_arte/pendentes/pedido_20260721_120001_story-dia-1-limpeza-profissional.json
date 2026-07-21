@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-1-limpeza-profissional.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-1-limpeza-profissional.png",
+    "foto_origem": {
+      "id": "LIMP-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg",
+      "descricao": "Colaborador da Serviscon conduz máquina de limpeza de piso em corredor interno com sinalização de segurança"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 1",
     "objetivo_publicacao": "Apresentar limpeza e conservação como serviço principal"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }

@@ -58,11 +58,27 @@
       "Manter aparência fotográfica realista",
       "Não inventar clientes, resultados, selos ou certificações"
     ],
-    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-2-controle-de-acesso.png"
+    "arquivo_saida": "05_producao/design/artes_geradas/story-dia-2-controle-de-acesso.png",
+    "foto_origem": {
+      "id": "PORT-001",
+      "arquivo": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.jpg",
+      "descricao": "Porteiro da Serviscon em pé na entrada de loja, com rádio comunicador e postura profissional"
+    }
   },
   "social_media": {
     "plataforma": "Instagram Stories",
     "data_sugerida": "Dia 2",
     "objetivo_publicacao": "Conectar portaria à imagem da empresa ou condomínio"
+  },
+  "aprovacao_cliente": {
+    "status": "aprovado",
+    "data_aprovacao": "2026-07-21",
+    "ajustes_solicitados": "Nenhum ajuste solicitado",
+    "producao_autorizada": true
+  },
+  "producao": {
+    "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
+    "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
+    "codex_nao_gera_imagem": true
   }
 }
