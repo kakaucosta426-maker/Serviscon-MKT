@@ -198,3 +198,88 @@ Regras:
 - Nunca utilizar fotografia de um serviço diferente apenas por ser visualmente bonita.
 - Usar IA somente quando não existir fotografia adequada no banco oficial ou para complementar elementos visuais, fundos e composições.
 - Ao selecionar uma fotografia, conferir categoria, descrição, orientação e possíveis utilizações registradas no índice.
+
+## Preparação de pedidos para n8n e API da OpenAI
+Ao finalizar uma direção de arte, o Designer não deve gerar imagens diretamente. A entrega operacional deve ser um pedido JSON para automação externa.
+
+### Fluxo obrigatório
+1. Escolher criteriosamente uma fotografia real no banco oficial de imagens em `03_base_de_conhecimento/banco_de_imagens/indice_imagens.md`.
+2. Usar a fotografia real mais compatível com o serviço anunciado.
+3. Informar no JSON o caminho exato da foto escolhida no campo `foto_origem`.
+4. Criar um prompt detalhado para edição da fotografia, mantendo fidelidade ao serviço, uniforme, contexto e identidade visual da Serviscon.
+5. Salvar o pedido como arquivo `.json` dentro de `04_pedidos_de_arte/pendentes/`.
+6. Não executar geração ou edição de imagens diretamente.
+7. Não sobrescrever pedidos existentes.
+8. Usar um identificador único para cada pedido no campo `id` e no nome do arquivo.
+9. Registrar `formato`, `campanha`, `servico`, `pasta_saida` e `nome_arquivo_saida`.
+10. Usar `tipo_operacao` como `editar_imagem` quando houver fotografia real adequada da Serviscon.
+11. Usar `tipo_operacao` como `gerar_imagem` somente quando não existir fotografia real adequada.
+
+### Estrutura obrigatória do pedido
+Cada pedido deve seguir o formato documentado em `04_pedidos_de_arte/README.md`.
+
+Campos obrigatórios:
+
+- `id`
+- `status`
+- `campanha`
+- `servico`
+- `tipo_operacao`
+- `formato`
+- `foto_origem`
+- `prompt`
+- `texto_principal`
+- `texto_apoio`
+- `cta`
+- `pasta_saida`
+- `nome_arquivo_saida`
+
+### Regras de escolha da fotografia
+- Não escolher imagem apenas por beleza visual.
+- Não usar foto de portaria para divulgar limpeza.
+- Não usar foto de jardinagem para divulgar portaria.
+- Não usar foto de supervisão para divulgar um serviço operacional específico se houver foto mais adequada do serviço.
+- Quando não houver foto adequada, registrar `tipo_operacao` como `gerar_imagem` e explicar no prompt que a imagem deve seguir a identidade da Serviscon sem inventar clientes, resultados, selos ou certificações.
+
+### Local de saída da automação
+Todo pedido deve indicar:
+
+`05_producao/design/artes_geradas`
+
+no campo `pasta_saida`.
+
+## Banco de imagens inteligente
+Antes de qualquer campanha, o Designer deve pesquisar o catálogo inteligente:
+
+`03_base_de_conhecimento/banco_de_imagens/catalogo.json`
+
+### Processo de pesquisa
+1. Ler briefing, planejamento, copy e objetivo da campanha.
+2. Identificar o serviço divulgado.
+3. Pesquisar o catálogo por `servico`, `categoria`, `atividade`, `ambiente`, `palavras_chave`, `orientacao` e `possiveis_utilizacoes`.
+4. Encontrar todas as fotografias compatíveis.
+5. Escolher a melhor fotografia considerando serviço, ambiente, atividade, enquadramento, iluminação, qualidade, composição e formato.
+6. Usar a fotografia mais compatível, não a mais bonita de forma isolada.
+
+### Regra de operação inteligente
+- Se existir fotografia real compatível, usar obrigatoriamente `tipo_operacao = editar_imagem`.
+- Quando houver foto real compatível, não gerar pessoas por IA.
+- Usar `tipo_operacao = gerar_imagem` somente quando não houver fotografia adequada, quando a campanha for institucional abstrata ou conceitual, ou quando houver autorização explícita no briefing.
+
+### Pedido JSON para n8n
+O pedido deve incluir o objeto `foto` para que o n8n localize automaticamente a imagem real:
+
+```json
+{
+  "tipo_operacao": "editar_imagem",
+  "foto": {
+    "id": "LIMP-001",
+    "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg"
+  },
+  "prompt_imagem": "prompt completo",
+  "saida": "05_producao/design/artes_geradas/arte_limpeza_001.png"
+}
+```
+
+### Limites da edição por IA
+A fotografia real deve permanecer como imagem principal. A OpenAI pode melhorar iluminação, resolução, fundo, composição, cores, espaço para título e CTA. É proibido trocar colaborador, alterar rosto, alterar identidade, trocar uniforme, substituir equipamentos reais ou inventar pessoas.

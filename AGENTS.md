@@ -32,3 +32,17 @@ A operação deve considerar cinco funções:
 Ao iniciar um novo mês de planejamento, leia `01_contexto_do_cliente/briefing_do_cliente.md` antes de criar ou atualizar `02_planejamento/calendario_editorial.md`.
 
 O calendário editorial mensal deve conter todas as publicações previstas para o mês, incluindo datas sugeridas, formato, tema, objetivo, responsável e status. Não deixe campos em branco; quando uma informação depender de confirmação do cliente, registre a dependência nas observações ou use uma descrição operacional clara, sem inventar dados.
+
+## Fluxo inteligente de imagens
+- O banco oficial de imagens fica em `03_base_de_conhecimento/banco_de_imagens/`.
+- Todas as fotografias catalogadas representam colaboradores reais da Serviscon e devem ser priorizadas em campanhas compatíveis.
+- O catálogo geral para consulta automática é `03_base_de_conhecimento/banco_de_imagens/catalogo.json`.
+- Cada fotografia deve ter um JSON de metadados na mesma pasta da imagem.
+- O Designer deve consultar `catalogo.json` antes de criar qualquer pedido de arte.
+- Sempre que existir fotografia real compatível, usar `tipo_operacao = editar_imagem` e não gerar pessoas por IA.
+- Usar `tipo_operacao = gerar_imagem` somente quando não existir fotografia adequada, quando a campanha for institucional abstrata ou conceitual, ou quando houver autorização explícita no briefing.
+- O Designer deve criar pedidos JSON em `04_pedidos_de_arte/pendentes/` e nunca executar geração de imagem diretamente.
+- O n8n deve usar `foto.arquivo` para localizar a fotografia no repositório e salvar o resultado final em `05_producao/design/artes_geradas/`.
+
+### Fluxo oficial de automação de arte
+Analista → Estrategista → Copywriter → Designer → Consulta `catalogo.json` → Escolhe fotografia real → Cria pedido JSON → GitHub → n8n → Baixa fotografia → OpenAI → Edita a fotografia → GitHub → `05_producao/design/artes_geradas/`.
