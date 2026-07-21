@@ -1,0 +1,70 @@
+{
+  "total_pedidos": 9,
+  "prontos_para_processar": 0,
+  "aguardando_foto": 9,
+  "pedidos": [
+    {
+      "id": "ARTE-20260721-STORY-001",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-002",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_006.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-003",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_001.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-004",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_003.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-005",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-006",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-007",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-008",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/jardinagem/serviscon_jardinagem_002.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    },
+    {
+      "id": "ARTE-20260721-STORY-009",
+      "status": "aguardando_foto",
+      "foto": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_008.jpg",
+      "arquivo_existe": false,
+      "arquivo_versionado": false
+    }
+  ]
+}

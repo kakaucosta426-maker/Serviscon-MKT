@@ -1,6 +1,6 @@
 {
   "id": "ARTE-20260721-STORY-004",
-  "status": "pendente",
+  "status": "aguardando_foto",
   "data_criacao": "2026-07-21T00:00:00-03:00",
   "campanha": {
     "nome": "Story Dia 2 - Portaria profissional",
@@ -79,6 +79,13 @@
   "producao": {
     "pasta_monitorada_n8n": "04_pedidos_de_arte/pendentes/",
     "acionamento": "pedido JSON commitado no GitHub para processamento pelo n8n",
-    "codex_nao_gera_imagem": true
+    "codex_nao_gera_imagem": true,
+    "pasta_atual": "04_pedidos_de_arte/aguardando_fotos/",
+    "proxima_pasta_apos_adicionar_foto": "04_pedidos_de_arte/pendentes/"
+  },
+  "pendencia": {
+    "tipo": "foto_ausente",
+    "arquivo_esperado": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_003.jpg",
+    "mensagem": "A fotografia real precisa ser adicionada ao banco de imagens."
   }
 }
