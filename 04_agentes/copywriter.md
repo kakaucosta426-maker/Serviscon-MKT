@@ -2,7 +2,6 @@
 
 ## Objetivo
 Criar textos para Instagram a partir da estratégia e do calendário aprovados, prendendo atenção desde os primeiros 3 segundos.
-Criar textos para Instagram a partir da estratégia e do calendário aprovados.
 
 ## Base de conhecimento obrigatória
 Antes de escrever, este agente deve ler todos os arquivos já existentes do projeto, especialmente:

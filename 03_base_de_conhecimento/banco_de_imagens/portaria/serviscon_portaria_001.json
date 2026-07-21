@@ -1,0 +1,44 @@
+{
+  "id": "PORT-001",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/portaria/serviscon_portaria_001.json",
+  "categoria": "portaria",
+  "servico": "Portaria",
+  "ambiente": "Entrada de estabelecimento comercial",
+  "atividade": "Porteiro posicionado em entrada, segurando rádio comunicador",
+  "equipamentos": [
+    "rádio comunicador",
+    "uniforme branco",
+    "crachá"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "vertical",
+  "qualidade": "alta",
+  "descricao": "Porteiro da Serviscon em pé na entrada de loja, com rádio comunicador e postura profissional",
+  "palavras_chave": [
+    "portaria",
+    "controle de acesso",
+    "rádio",
+    "uniforme",
+    "segurança",
+    "entrada"
+  ],
+  "possiveis_utilizacoes": [
+    "stories",
+    "reels",
+    "post vertical",
+    "carrossel sobre portaria"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+  "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}

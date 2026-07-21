@@ -1,0 +1,45 @@
+{
+  "id": "LIMP-003",
+  "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_003.jpg",
+  "arquivo_metadados": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_003.json",
+  "categoria": "limpeza_e_conservacao",
+  "servico": "Limpeza e conservação",
+  "ambiente": "Corredor interno de circulação",
+  "atividade": "Limpeza manual de piso com mop",
+  "equipamentos": [
+    "mop",
+    "luvas",
+    "uniforme azul",
+    "botas"
+  ],
+  "uniforme": "Serviscon",
+  "colaboradores": 1,
+  "orientacao": "vertical",
+  "qualidade": "alta",
+  "descricao": "Colaboradora da Serviscon passando mop em piso interno claro, com uniforme azul e corredor ao fundo",
+  "palavras_chave": [
+    "limpeza",
+    "mop",
+    "conservação",
+    "colaboradora",
+    "piso",
+    "ambiente interno"
+  ],
+  "possiveis_utilizacoes": [
+    "stories",
+    "reels",
+    "post vertical",
+    "carrossel sobre limpeza diária"
+  ],
+  "prioridade_de_uso": "priorizar em campanhas compatíveis com o serviço, por representar colaboradores reais da Serviscon",
+  "restricoes": [
+    "não trocar colaborador",
+    "não alterar rosto ou identidade",
+    "não trocar uniforme",
+    "não substituir equipamentos reais",
+    "não inventar pessoas, clientes, resultados, selos ou certificações"
+  ],
+  "enquadramento": "vertical com foco no colaborador e uso prioritário para stories, reels ou post vertical",
+  "iluminacao": "iluminação interna clara, adequada para tratamento publicitário e reforço de contraste",
+  "composicao": "colaborador real como assunto principal, com contexto operacional compatível com o serviço"
+}

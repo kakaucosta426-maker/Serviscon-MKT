@@ -83,7 +83,3 @@
 - Frases ou expressões proibidas: Não informado pelo cliente
 - Exemplos de textos aprovados: Não informado pelo cliente
 - Assuntos sensíveis ou proibidos: Não informado pelo cliente
-- Frases ou expressões preferidas da marca: [INFORMAÇÃO A PREENCHER]
-- Frases ou expressões proibidas: [INFORMAÇÃO A PREENCHER]
-- Exemplos de textos aprovados: [INFORMAÇÃO A PREENCHER]
-- Assuntos sensíveis ou proibidos: [INFORMAÇÃO A PREENCHER]

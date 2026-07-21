@@ -214,6 +214,3 @@ Todos os colaboradores recebem treinamentos periódicos para garantir qualidade,
 - Condições comerciais: Não informado pelo cliente
 - Prazos de implantação: Não informado pelo cliente
 - Áreas de cobertura fora de São Luís e região metropolitana: Não informado pelo cliente
-- Condições comerciais: [INFORMAÇÃO A PREENCHER]
-- Prazos de implantação: [INFORMAÇÃO A PREENCHER]
-- Áreas de cobertura fora de São Luís e região metropolitana: [INFORMAÇÃO A PREENCHER]
