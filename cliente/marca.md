@@ -11,8 +11,8 @@
 - Telefone comercial: (98) 98613-3076
 - E-mail comercial: comercial@serviscon.com.br
 - Perfil do Instagram: @servisconterceirizacao
-- Site: [INFORMAÇÃO A PREENCHER]
-- Responsável pelo contato: [SEU NOME OU RESPONSÁVEL]
+- Site: Não informado pelo cliente
+- Responsável pelo contato: Responsável comercial da Serviscon não informado
 
 ## Sobre a Serviscon
 A Serviscon é uma empresa maranhense especializada em terceirização de serviços e soluções em facilities. Atende empresas privadas, condomínios, instituições e órgãos públicos.
@@ -75,9 +75,9 @@ A Serviscon é uma empresa maranhense especializada em terceirização de servi�
 Confiável, profissional, organizada, humana, próxima, moderna e comprometida com resultados.
 
 ## Concorrentes e referências
-- Principais concorrentes: [INFORMAÇÃO A PREENCHER]
+- Principais concorrentes: Não informado pelo cliente
 - Referências de comunicação: empresas de facilities e limpeza profissional com comunicação corporativa, moderna, educativa e focada em autoridade.
 
 ## Regras de cuidado com informações
 - Não inventar preços, números, clientes, depoimentos, resultados, datas ou informações que não estejam confirmadas.
-- Quando faltar algum dado, usar `[INFORMAÇÃO A PREENCHER]`.
+- Quando faltar algum dado, usar `Não informado pelo cliente`.
