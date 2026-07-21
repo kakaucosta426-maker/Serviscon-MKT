@@ -61,3 +61,7 @@
 - Processo comercial: Não informado pelo cliente
 - Prazos de implantação: Não informado pelo cliente
 - Condições contratuais: Não informado pelo cliente
+- Critérios de contratação: [INFORMAÇÃO A PREENCHER]
+- Processo comercial: [INFORMAÇÃO A PREENCHER]
+- Prazos de implantação: [INFORMAÇÃO A PREENCHER]
+- Condições contratuais: [INFORMAÇÃO A PREENCHER]

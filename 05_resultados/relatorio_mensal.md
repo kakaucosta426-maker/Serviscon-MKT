@@ -2,6 +2,7 @@
 
 ## Período analisado
 - Mês/ano: Agosto de 2026
+- Mês/ano: `[PREENCHER]`
 - Responsável pela análise: Analista de Marketing
 
 ## Métricas principais
@@ -20,3 +21,16 @@
 
 ## Recomendações para o próximo período
 - Manter foco em autoridade, benefícios da terceirização, bastidores, treinamentos, facilities e geração de oportunidades comerciais, ajustando os temas conforme os resultados coletados em agosto de 2026.
+| Seguidores | `[PREENCHER]` | `[PREENCHER]` |
+| Alcance | `[PREENCHER]` | `[PREENCHER]` |
+| Impressões | `[PREENCHER]` | `[PREENCHER]` |
+| Engajamento | `[PREENCHER]` | `[PREENCHER]` |
+| Cliques no perfil/link | `[PREENCHER]` | `[PREENCHER]` |
+
+## Conteúdos de destaque
+- Melhor desempenho: `[PREENCHER]`
+- Pior desempenho: `[PREENCHER]`
+- Aprendizados: `[PREENCHER]`
+
+## Recomendações para o próximo período
+- `[PREENCHER]`
