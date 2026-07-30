@@ -1,0 +1,32 @@
+{
+  "id": "AGO-04",
+  "status": "pendente_aprovacao",
+  "campanha": {
+    "nome": "O custo invisível de contratar só uma pessoa",
+    "servico": "Facilities",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "O custo invisível de contratar “só uma pessoa” para resolver uma operação",
+    "texto_apoio": "Execução, substituição, orientação e acompanhamento também entram na conta.",
+    "cta": "Converse com nossa equipe"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-009",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_009.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Criar carrossel com contraste editorial entre improviso e método, sem ridicularizar ou isolar o trabalhador. Usar fotografia real, checklist e marcadores discretos. Título com no máximo quatro linhas, tipografia moderada e grande espaço negativo.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-04-custo-invisivel.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_aprovacao",
+    "producao_autorizada": false
+  }
+}
