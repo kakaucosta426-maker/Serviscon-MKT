@@ -1,0 +1,25 @@
+{
+  "id": "AGO-13",
+  "status": "pendente_execucao_do_mes",
+  "campanha": {
+    "nome": "Agosto em ação",
+    "servico": "Institucional",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "Agosto em ação",
+    "texto_apoio": "Diagnóstico, capacitação, segurança e conexões.",
+    "cta": "Vamos conversar sobre sua operação"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_registros_do_mes",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar retrospectiva com registros reais e aprovados de agosto. Usar no máximo três imagens na capa, mosaico organizado, tipografia moderada e espaço negativo. Slides internos com fotografia inteira e texto curto. Finalizar com WhatsApp e e-mail comercial.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-13-agosto-em-acao.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_execucao_material_e_aprovacao",
+    "producao_autorizada": false
+  }
+}
