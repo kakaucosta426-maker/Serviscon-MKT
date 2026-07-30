@@ -1,55 +1,64 @@
 # Stories — Agosto de 2026
 
-## Regras de execução
+## Frequência
 
-- Publicar de 2 a 3 telas por dia.
-- Priorizar fotos e vídeos reais da Serviscon.
-- Quando não houver registro atual, usar fotografia compatível do banco oficial.
-- Não mostrar cliente, crachá, documento, rosto ou local sensível sem autorização.
-- Adaptar horários conforme os dados do perfil; sugestão inicial: 8h–9h, 12h–14h ou 17h–19h.
+- Segunda a sexta.
+- Duas a três telas por dia.
+- Priorizar vídeos e fotografias reais.
+- Usar interação em pelo menos três dias de cada semana.
 
-| Data | Objetivo | Sequência exata | Formato / interação | Material necessário |
+## Planejamento diário
+
+| Data | Objetivo | Sequência sugerida | Interação | Material |
 |---|---|---|---|---|
-| 01/08 | Abrir o mês | 1. “Agosto começou. Por aqui, seguimos cuidando das rotinas que não podem parar.” 2. “Neste mês vamos mostrar o que existe por trás de uma operação terceirizada.” 3. “Qual serviço você mais quer entender?” | Arte + enquete: Limpeza / Portaria | Logo e arte institucional |
-| 02/08 | Gerar identificação | 1. “Quando falta alguém na operação, quem resolve?” 2. “Esse é um dos pontos que mais consomem tempo de gestores e síndicos.” 3. “Terceirizar também é contar com apoio para organizar a rotina.” | Texto sobre foto + enquete: Equipe interna / Terceirizada | Foto de equipe ou supervisão |
-| 03/08 | Apoiar AGO-01 | 1. “Terceirizar é perder o controle?” 2. “Não quando existe gestão, supervisão e comunicação.” 3. “Novo carrossel no feed: veja o que faz parte da operação.” | Chamada para feed | Capa AGO-01 |
-| 04/08 | Explicar processo | 1. “Antes de montar uma equipe, é preciso entender o ambiente.” 2. “Fluxo de pessoas, horários e tipo de atividade mudam a operação.” 3. “Cada ambiente exige uma solução diferente.” | Foto + caixa: “Qual é a principal dificuldade da sua operação?” | Foto de visita técnica ou ambiente autorizado |
-| 05/08 | Apoiar AGO-02 | 1. “Limpeza profissional não é fazer tudo do mesmo jeito.” 2. “Piso, fluxo, frequência e equipamentos precisam ser considerados.” 3. “Veja o Reels de hoje.” | Vídeo curto + chamada para feed | Vídeo de limpeza mecanizada |
-| 06/08 | Educar sobre segurança | 1. “Sinalização não é detalhe.” 2. “Ela ajuda a proteger quem executa e quem circula pelo ambiente.” 3. “Segurança também faz parte da limpeza profissional.” | Foto de placa + enquete: “Você repara na sinalização?” | LIMP-006 ou vídeo real |
-| 07/08 | Reforçar autoridade | 1. “Mais de 12 anos de atuação.” 2. “Mais de 250 colaboradores.” 3. “Por trás dos números, existem operações que precisam funcionar todos os dias.” | Arte institucional + chamada para feed | Capa AGO-03 |
-| 08/08 | Humanizar | 1. “Toda operação é feita por pessoas.” 2. “Orientar, acompanhar e desenvolver equipes também faz parte do nosso trabalho.” 3. “Deixe uma mensagem para quem cuida dos ambientes todos os dias.” | Foto de equipe + caixa de resposta | Foto autorizada de colaboradores |
-| 09/08 | Relacionamento | 1. “Qual destas situações mais atrapalha uma operação?” 2. “Faltas inesperadas / Falta de supervisão.” 3. “A resposta ajuda a gente a produzir conteúdos mais úteis.” | Enquete | Arte simples |
-| 10/08 | Apoiar AGO-04 | 1. “O cliente contrata o serviço.” 2. “Mas quem cuida de seleção, orientação e acompanhamento?” 3. “Explicamos no carrossel de hoje.” | Chamada para feed | Capa AGO-04 |
-| 11/08 | Mostrar gestão | 1. “Acompanhamento não acontece só quando existe problema.” 2. “Ele faz parte da rotina para identificar necessidades e orientar ajustes.” 3. “Supervisão é presença operacional.” | Foto de supervisão | SUP-001 ou SUP-002 |
-| 12/08 | Apoiar AGO-05 | 1. “O resultado que aparece começa nos bastidores.” 2. “Materiais, orientação, equipamento e equipe.” 3. “Veja a rotina no Reels de hoje.” | Vídeo bastidor + chamada | Vídeos reais da operação |
-| 13/08 | Dica de limpeza | 1. “Produto certo, na quantidade certa.” 2. “Excesso de produto não significa melhor limpeza e pode deixar resíduos.” 3. “A aplicação deve seguir orientação técnica e o tipo de superfície.” | Card educativo + quiz: Verdadeiro/Falso | Arte institucional; validar orientação operacional |
-| 14/08 | Apoiar AGO-06 | 1. “Serviço terceirizado precisa de acompanhamento.” 2. “Sem comunicação, pequenas falhas podem virar rotina.” 3. “Veja o post de hoje.” | Chamada para feed | Capa AGO-06 |
-| 15/08 | Pergunta ao público | 1. “Na sua empresa, quem acompanha os serviços operacionais?” 2. “Gestor interno / Supervisor da prestadora / Ninguém definido.” 3. “Ter responsabilidades claras facilita a rotina.” | Enquete com duas opções por tela | Arte simples |
-| 16/08 | Apresentar portfólio | 1. “Facilities não é um único serviço.” 2. “É o conjunto de atividades que apoia o funcionamento dos ambientes.” 3. “Amanhã vamos mostrar parte do portfólio da Serviscon.” | Teaser | Montagem com serviços reais |
-| 17/08 | Apoiar AGO-07 | 1. “Limpeza, portaria, recepção, copeiragem, jardinagem e manutenção.” 2. “Necessidades diferentes, operações diferentes.” 3. “Conheça os serviços no carrossel de hoje.” | Chamada para feed | Capa AGO-07 |
-| 18/08 | Falar de portaria | 1. “A portaria é um ponto de contato importante do ambiente.” 2. “Postura, atenção e comunicação fazem diferença na rotina.” 3. “Sua empresa ou condomínio utiliza portaria terceirizada?” | Foto + enquete Sim/Não | PORT-001 ou PORT-003 |
-| 19/08 | Apoiar AGO-08 | 1. “Equipe preparada não acontece por acaso.” 2. “Treinamento e segurança precisam acompanhar a atividade.” 3. “Veja o Reels de hoje.” | Chamada para feed | Capa AGO-08 + vídeo de EPI |
-| 20/08 | Segurança | 1. “EPI precisa ser compatível com a atividade.” 2. “Usar, conservar e substituir corretamente também faz parte da rotina.” 3. “Segurança é responsabilidade diária.” | Foto de EPI + quiz | Foto autorizada; validar com SST |
-| 21/08 | Apoiar AGO-09 | 1. “Boas práticas ajudam a profissionalizar a limpeza.” 2. “Segurança, técnica e atualização fazem parte desse processo.” 3. “Leia o post de hoje.” | Chamada para feed | Capa AGO-09 |
-| 22/08 | Relacionamento | 1. “Qual tema você quer ver por aqui?” 2. “Limpeza profissional / Terceirização / Portaria / Jardinagem.” 3. “Envie sua dúvida.” | Enquete + caixa | Arte simples |
-| 23/08 | Preparar conteúdo comercial | 1. “Quanto tempo sua equipe gasta resolvendo problemas operacionais?” 2. “Faltas, substituições, orientação e acompanhamento consomem atenção.” 3. “Amanhã vamos falar sobre esse impacto.” | Texto + enquete: Muito/Pouco | Arte institucional |
-| 24/08 | Apoiar AGO-10 | 1. “Menos preocupação operacional.” 2. “Mais tempo para cuidar do seu negócio.” 3. “Veja os benefícios no carrossel de hoje.” | Chamada para feed | Capa AGO-10 |
-| 25/08 | Explicar orçamento | 1. “Uma proposta começa com informações claras.” 2. “Ambiente, postos, horários, atividades e recursos necessários.” 3. “Quanto melhor o diagnóstico, mais adequada a solução.” | Checklist visual + caixa: “Quer falar com a equipe?” | Arte institucional |
-| 26/08 | Apoiar AGO-11 | 1. “Áreas verdes também comunicam cuidado.” 2. “Conservação exige rotina, equipamento e segurança.” 3. “Veja o Reels de jardinagem.” | Vídeo + chamada para feed | JARD-001/JARD-002 ou vídeo atual |
-| 27/08 | Bastidor de jardinagem | 1. “Antes de iniciar: conferir área, equipamento e EPI.” 2. “Durante a atividade: atenção à circulação e ao entorno.” 3. “Depois: organização e avaliação do espaço.” | Sequência de fotos | Registro autorizado da atividade |
-| 28/08 | Apoiar AGO-12 | 1. “Antes de contratar, faça perguntas.” 2. “O que está incluído? Como funciona a supervisão? Quais são as responsabilidades?” 3. “O post de hoje ajuda a começar essa conversa.” | Chamada para feed | Capa AGO-12 |
-| 29/08 | Caixa de dúvidas | 1. “Tem alguma dúvida sobre terceirização de serviços?” 2. “Envie aqui. Vamos responder sem complicação.” 3. “Não precisa informar dados da empresa.” | Caixa de perguntas | Arte institucional |
-| 30/08 | Recapitular | 1. “Neste mês falamos de gestão, limpeza, segurança e equipes.” 2. “Qual conteúdo foi mais útil?” 3. “Gestão / Limpeza / Serviços / Bastidores.” | Enquete em duas telas | Capas do mês |
-| 31/08 | Apoiar AGO-13 | 1. “Não existe uma solução igual para todos os ambientes.” 2. “Existe planejamento para cada necessidade.” 3. “Fechamos o mês com um resumo no feed. Fale com a Serviscon.” | Chamada para feed + CTA comercial | Capa AGO-13 |
+| 03/08 | Anunciar a feira | 1. “Tem encontro marcado por aí.” 2. “A Serviscon estará na Feira do Empreendedor Sebrae.” 3. “Vamos falar de facilities, gestão e novas oportunidades.” | Enquete: “Você pretende visitar a feira?” | Arte AGO-01 |
+| 04/08 | Preparar AGO-02 | 1. “Escritório, condomínio, escola e indústria precisam da mesma rotina de limpeza?” 2. “Não. Fluxos, superfícies e riscos mudam.” 3. “Amanhã explicamos por que o diagnóstico vem primeiro.” | Enquete: “Mesma rotina / Rotina diferente” | Fotos de ambientes autorizados |
+| 05/08 | Apoiar AGO-02 | 1. “Cada ambiente exige uma solução diferente.” 2. “Equipe, frequência, materiais e equipamentos dependem da realidade do local.” 3. “Veja o carrossel de hoje.” | Caixa: “Qual ambiente você administra?” | Capa AGO-02 |
+| 06/08 | Mostrar observação | 1. “Antes da proposta, precisamos ouvir.” 2. “Na visita, observamos rotina, estrutura e pontos de atenção.” 3. “Qual é a maior dificuldade da sua operação?” | Caixa de pergunta | Foto de visita ou supervisão |
+| 07/08 | Apoiar AGO-03 | 1. “Fluxo de pessoas.” 2. “Áreas críticas, horários e necessidades específicas.” 3. “Veja no Reels o que observamos em uma visita técnica.” | CTA para o Reels | Vídeos AGO-03 |
+| 10/08 | Gerar consciência | 1. “Quando alguém falta, quem resolve?” 2. “Quando o material acaba, quem reorganiza?” 3. “O custo da operação também aparece no tempo do gestor.” | Enquete: “Equipe interna / Prestadora” | Arte simples |
+| 11/08 | Aprofundar AGO-04 | 1. “Executar é uma parte.” 2. “Selecionar, orientar, substituir e acompanhar também fazem parte.” 3. “Qual dessas etapas mais consome seu tempo?” | Caixa com resposta | Foto de equipe ou supervisão |
+| 12/08 | Apoiar AGO-05 | 1. “Mais produto significa mais limpeza?” 2. “Nem sempre. Excesso pode deixar resíduos e prejudicar superfícies.” 3. “Limpeza profissional é técnica e orientação.” | Quiz: “Verdadeiro / Falso” | Reels AGO-05 |
+| 13/08 | Educar | 1. “Uma sequência simples ajuda a evitar retrabalho.” 2. “De cima para baixo. Do fundo para a saída.” 3. “A rotina deve considerar o tipo de ambiente.” | Slider: “Dica útil?” | Card validado pela Operação |
+| 14/08 | Apoiar AGO-06 | 1. “Checklist registra.” 2. “Supervisão acompanha.” 3. “Comunicação transforma registro em melhoria.” | Enquete: “Sua operação usa checklist?” | Capa AGO-06 + captura autorizada |
+| 17/08 | Valorizar a capacitação | 1. “Aprender também abre caminhos.” 2. “O curso de Limpeza e Conservação levou conhecimento profissional a pessoas da comunidade.” 3. “Capacitação também transforma oportunidades.” | Caixa: “Deixe uma mensagem aos participantes” | Fotos autorizadas do curso |
+| 18/08 | Responsabilidade social | 1. “Responsabilidade social precisa gerar impacto real.” 2. “Qualificação contribui para autonomia e oportunidades.” 3. “Que curso profissionalizante você gostaria de fazer?” | Caixa de pergunta | Foto do curso ou arte institucional |
+| 19/08 | Apoiar AGO-08 | 1. “Segurança também precisa de atualização.” 2. “NR 1: prevenção e gerenciamento de riscos.” 3. “NR 6: uso e cuidado com os EPIs.” | Quiz simples validado por SST | Vídeo do treinamento |
+| 20/08 | Reforçar prevenção | 1. “EPI correto.” 2. “Orientação para a atividade.” 3. “Conferência antes de começar.” | Enquete: “Você confere o EPI antes da atividade?” | Foto autorizada de EPI |
+| 21/08 | Apoiar AGO-09 | 1. “O que acontece depois da visita técnica?” 2. “As informações viram um diagnóstico claro.” 3. “Situação atual, pontos de atenção e oportunidades de melhoria.” | Caixa: “Quer entender sua operação?” | Capa AGO-09 |
+| 24/08 | Mostrar propósito da feira | 1. “Uma feira não é apenas exposição.” 2. “É oportunidade de ouvir, conectar e criar negócios.” 3. “É por isso que a Serviscon estará na Feira do Empreendedor.” | Contagem regressiva somente com data confirmada | Arte AGO-10 |
+| 25/08 | Apresentar soluções | 1. “O que você encontrará com a Serviscon?” 2. “Limpeza, portaria, recepção, jardinagem, manutenção e apoio operacional.” 3. “Qual serviço mais interessa à sua empresa?” | Enquete em duas telas | Cards de serviços |
+| 26/08 | Apoiar AGO-11 | 1. “Quando o serviço começa, muita coisa já aconteceu.” 2. “Materiais, orientação, EPI e sinalização.” 3. “Veja os bastidores no Reels.” | CTA para o Reels | Vídeos AGO-11 |
+| 27/08 | Mostrar preparo | 1. “O que não pode faltar antes de iniciar?” 2. “Equipe orientada / Material disponível / Segurança / Plano de trabalho.” 3. “A resposta certa é: todos.” | Quiz | Fotos dos bastidores |
+| 28/08 | Apoiar AGO-12 | 1. “Sua operação depende de cobranças diárias?” 2. “Faltas sempre viram emergência?” 3. “Veja cinco sinais de que a rotina precisa ser reorganizada.” | Checklist interativo | Capa AGO-12 |
+| 31/08 | Fechar o mês | 1. “Agosto foi mês de diagnóstico, capacitação e conexões.” 2. “Qual conteúdo mais ajudou você?” 3. “Quer conversar sobre sua operação? Fale com a Serviscon.” | Enquete + caixa de contato | Capas do mês |
 
-## Respostas-padrão para interações
+## Respostas-padrão
 
-- **Pedido de orçamento:** “Olá! Obrigada pelo contato. Para entendermos sua necessidade, envie o tipo de serviço, a cidade, o ambiente e uma breve descrição da operação. Nossa equipe comercial dará continuidade.”
-- **Dúvida genérica:** “Cada contratação depende do escopo e da rotina do local. Envie sua dúvida e nossa equipe explica de forma mais direcionada.”
-- **Currículo ou vaga:** encaminhar para o canal oficial de recrutamento, quando confirmado. `[AGUARDANDO INFORMAÇÃO DO CLIENTE]`.
+### Interesse em visita técnica
 
-## Pontos que exigem validação
+“Olá! Obrigada pelo interesse. Para direcionarmos seu atendimento, informe a cidade, o tipo de ambiente, o serviço procurado e uma breve descrição da necessidade. Nossa equipe comercial dará continuidade.”
 
-- Dicas técnicas devem ser validadas pela equipe operacional ou de SST.
-- Não usar imagens de clientes sem autorização.
-- Confirmar agenda de treinamentos e ações reais antes de transformar em Story factual.
+### Interesse na feira
+
+“A Serviscon participará da Feira do Empreendedor Sebrae. Assim que todas as informações estiverem confirmadas, divulgaremos data, local e estande por aqui.”
+
+### Interesse no curso
+
+“Obrigada pelo interesse. Este conteúdo apresenta uma ação já realizada. Novas turmas e inscrições só serão divulgadas quando houver confirmação oficial.”
+
+## Horários iniciais
+
+- Primeira tela: 8h às 9h.
+- Reforço ou interação: 12h às 14h.
+- CTA ou chamada para o feed: 17h às 19h.
+
+Ajustar os horários após observar alcance, retenção e respostas do perfil.
+
+## Validações
+
+- Informações técnicas: Operação ou Segurança do Trabalho.
+- Dados da feira: responsável institucional.
+- Leads: responsável comercial.
+- Imagens de pessoas e clientes: autorização formal.
+
