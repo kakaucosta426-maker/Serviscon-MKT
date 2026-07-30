@@ -1,0 +1,25 @@
+{
+  "id": "AGO-10",
+  "status": "pendente_material_e_aprovacao",
+  "campanha": {
+    "nome": "Propósito da participação na feira",
+    "servico": "Institucional e relacionamento",
+    "canal": "Instagram",
+    "formato": "post_1080x1350"
+  },
+  "copy": {
+    "titulo": "Conexões que podem transformar operações.",
+    "texto_apoio": "Serviscon na Feira do Empreendedor Sebrae",
+    "cta": "Encontre a Serviscon na feira"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_foto_oficial",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar post institucional usando fotografia autorizada da equipe, preparação ou estande. Pessoas em escala moderada, tipografia menor e amplo espaço negativo. Inserir chamada de visita somente com data, local e estande confirmados.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-10-conexoes-feira.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_material_dados_e_aprovacao",
+    "producao_autorizada": false
+  }
+}
