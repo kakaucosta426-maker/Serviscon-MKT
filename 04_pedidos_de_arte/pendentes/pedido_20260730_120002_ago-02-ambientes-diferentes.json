@@ -1,0 +1,32 @@
+{
+  "id": "AGO-02",
+  "status": "pendente_aprovacao",
+  "campanha": {
+    "nome": "Cada ambiente exige uma solução diferente",
+    "servico": "Limpeza e conservação",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "Cada ambiente exige uma solução operacional diferente.",
+    "texto_apoio": "Diagnóstico primeiro. Solução depois.",
+    "cta": "Solicite uma visita técnica"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-002",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_002.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Criar carrossel editorial B2B com fotografia real em aproximadamente 50% da capa, bloco de título com bastante respiro e tipografia moderada. Slides internos devem explicar que fluxos, superfícies, horários e riscos mudam conforme o ambiente. Não usar a mesma fotografia para fingir segmentos diferentes.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-02-ambientes-diferentes.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_aprovacao",
+    "producao_autorizada": false
+  }
+}
