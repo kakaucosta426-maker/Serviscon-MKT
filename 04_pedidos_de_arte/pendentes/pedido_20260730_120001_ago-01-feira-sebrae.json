@@ -1,0 +1,25 @@
+{
+  "id": "AGO-01",
+  "status": "pendente_material_e_aprovacao",
+  "campanha": {
+    "nome": "Serviscon na Feira do Empreendedor Sebrae",
+    "servico": "Institucional",
+    "canal": "Instagram",
+    "formato": "post_1080x1350"
+  },
+  "copy": {
+    "titulo": "A Serviscon estará na Feira do Empreendedor Sebrae",
+    "texto_apoio": "Venha conhecer nossas soluções em facilities.",
+    "cta": "Esperamos por você!"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_foto_oficial",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar post corporativo 4:5 usando exclusivamente a fotografia oficial fornecida pela usuária. Preservar integralmente as três pessoas, rostos, roupas, crachás, estande e logotipos. Fotografia entre 45% e 55% da composição, tipografia moderada, amplo espaço negativo, paleta azul-marinho, azul-ciano e branco. Não inventar data, local, estande ou informações do evento.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-01-feira-sebrae.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_material_e_aprovacao",
+    "producao_autorizada": false
+  }
+}
