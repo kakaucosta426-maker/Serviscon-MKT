@@ -1,0 +1,32 @@
+{
+  "id": "AGO-12",
+  "status": "pendente_aprovacao",
+  "campanha": {
+    "nome": "Sinais de desorganização operacional",
+    "servico": "Facilities",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "5 sinais de que sua operação precisa ser reorganizada",
+    "texto_apoio": "O primeiro passo é diagnosticar.",
+    "cta": "Fale com a Serviscon"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-004",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_004.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Criar carrossel editorial com fotografia real e tom de alerta responsável, sem dramatização. Usar um número por slide, texto curto e bastante respiro. Preservar profissional, uniforme, equipamento e sinalização.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-12-sinais-operacao.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_aprovacao",
+    "producao_autorizada": false
+  }
+}
