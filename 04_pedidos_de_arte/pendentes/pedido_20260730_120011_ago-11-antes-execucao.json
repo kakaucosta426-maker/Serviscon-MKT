@@ -1,0 +1,32 @@
+{
+  "id": "AGO-11",
+  "status": "pendente_captacao",
+  "campanha": {
+    "nome": "O resultado começa antes da execução",
+    "servico": "Gestão operacional",
+    "canal": "Instagram",
+    "formato": "reels_1080x1920"
+  },
+  "copy": {
+    "titulo": "O resultado começa antes da execução.",
+    "texto_apoio": "Recursos, alinhamento, segurança, técnica e acompanhamento.",
+    "cta": "Veja como cuidamos da operação"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-005",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_005.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "funcao_na_composicao": "capa"
+      }
+    ],
+    "prompt_geracao": "Criar capa documental usando LIMP-005 e preservar colaboradores, uniformes, rostos, mop e carrinho. Produzir o vídeo completo com cenas de materiais, orientação, EPI, sinalização, execução e supervisão. Tipografia discreta sem cobrir a ação.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-11-antes-execucao.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_captacao_e_aprovacao",
+    "producao_autorizada": false
+  }
+}

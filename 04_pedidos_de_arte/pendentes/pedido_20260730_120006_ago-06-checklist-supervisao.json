@@ -1,0 +1,32 @@
+{
+  "id": "AGO-06",
+  "status": "pendente_material_e_aprovacao",
+  "campanha": {
+    "nome": "Checklist e supervisão",
+    "servico": "Gestão operacional",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "Do checklist à supervisão: como a rotina ganha padrão",
+    "texto_apoio": "Registrar, acompanhar e melhorar.",
+    "cta": "Conheça nossa gestão operacional"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "SUP-002",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/supervisao_operacional/serviscon_supervisao_002.jpg",
+        "categoria": "supervisao_operacional",
+        "funcao_na_composicao": "imagem_principal"
+      }
+    ],
+    "prompt_geracao": "Criar capa com foto real de supervisão e espaço reservado para captura autorizada do checklist digital. Não mostrar dados de clientes. Slides numerados: planejar, orientar, registrar, supervisionar, corrigir e acompanhar. Usar linhas finas e retângulos.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-06-checklist-supervisao.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_captura_e_aprovacao",
+    "producao_autorizada": false
+  }
+}

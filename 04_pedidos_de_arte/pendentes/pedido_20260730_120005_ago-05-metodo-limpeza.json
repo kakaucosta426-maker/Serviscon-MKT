@@ -1,0 +1,32 @@
+{
+  "id": "AGO-05",
+  "status": "pendente_captacao",
+  "campanha": {
+    "nome": "Limpeza profissional é método",
+    "servico": "Limpeza e conservação",
+    "canal": "Instagram",
+    "formato": "reels_1080x1920"
+  },
+  "copy": {
+    "titulo": "Limpeza profissional é método, não improviso.",
+    "texto_apoio": "Planejamento, segurança, sequência, técnica e padrão.",
+    "cta": "Salve este conteúdo"
+  },
+  "imagem": {
+    "tipo_operacao": "gerar_com_imagem_de_referencia",
+    "fotos_referencia": [
+      {
+        "id": "LIMP-001",
+        "arquivo": "03_base_de_conhecimento/banco_de_imagens/limpeza_e_conservacao/serviscon_limpeza_001.jpg",
+        "categoria": "limpeza_e_conservacao",
+        "funcao_na_composicao": "capa"
+      }
+    ],
+    "prompt_geracao": "Criar capa vertical documental usando LIMP-001, preservando profissional, uniforme, equipamento e placa. Título no terço superior e palavras-chave discretas. Produzir o Reels completo somente com vídeos reais e após validação técnica.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-05-metodo-limpeza.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_captacao_validacao_e_aprovacao",
+    "producao_autorizada": false
+  }
+}

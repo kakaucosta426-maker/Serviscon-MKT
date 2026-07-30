@@ -1,39 +1,142 @@
-# Briefings Visuais — Agosto de 2026
+# Briefings de Design — Agosto de 2026
 
-## Diretrizes gerais
+## Direção geral
 
-- Feed: 1080 × 1350 px; capas de Reels também devem funcionar em 1080 × 1920 px.
-- Paleta: `#061F49`, `#10AEE0`, `#FFFFFF` e neutros.
-- Tipografia sem serifa, forte nos títulos e regular nos apoios.
-- Manter título, CTA e logo dentro da área segura.
-- Priorizar foto real, alto contraste, poucos elementos e aparência editorial corporativa.
-- Não alterar rostos, uniformes, logotipos, equipamentos ou atividades.
+- Estética: clean, moderna, corporativa e editorial.
+- Paleta: azul-marinho, azul-ciano, branco e cinza neutro.
+- Formato do feed: 1080 × 1350, proporção 4:5.
+- Reels e Stories: 1080 × 1920.
+- Fotografia real menor e bem integrada ao grid, sem dominar toda a composição quando houver muito conteúdo.
+- Tipografia moderada, com títulos aproximadamente 25% menores do que um layout promocional convencional.
+- Amplo espaço negativo.
+- Textos e logos dentro da área segura.
+- Pessoas, rostos, roupas, uniformes, crachás, equipamentos e ambientes preservados.
+- Não alterar logos oficiais.
 
-| ID | Imagem real | Justificativa | Conceito e composição | Orientação dos slides / prompt final |
-|---|---|---|---|---|
-| AGO-01 | `serviscon_supervisao_001.jpg` | Representa supervisão e gestão | Foto em 65% da capa; bloco azul-marinho à esquerda; título branco; CTA discreto. | Slides internos com ícones lineares e uma etapa por tela. Criar carrossel B2B premium sobre terceirização com gestão, preservando integralmente a colaboradora e o rádio. |
-| AGO-02 | `serviscon_limpeza_001.jpg` | Limpeza mecanizada e sinalização | Foto em tela cheia; título no topo esquerdo; faixa branca inferior; selo pequeno “Limpeza profissional”. | Capa vertical com espaço seguro central e inferior; preservar colaborador, máquina e placa. |
-| AGO-03 | `serviscon_portaria_003.jpg` | Retrato profissional e presença operacional | Colaborador à direita; bloco branco à esquerda; título azul-marinho; linha ciano. | Post institucional sem inventar cenário, cliente ou credencial. |
-| AGO-04 | `serviscon_supervisao_002.jpg` | Comunicação e acompanhamento | Foto com foco no rádio; degradê azul-marinho inferior; título branco. | Slides: necessidade, seleção, treinamento, recursos, supervisão, ajustes e CTA. |
-| AGO-05 | `serviscon_limpeza_005.jpg` | Equipe real em atividade | Recorte vertical dos colaboradores; faixa azul no topo; CTA no rodapé. | Capa documental, humana e profissional; não criar novas pessoas. |
-| AGO-06 | `serviscon_limpeza_004.jpg` | Equipamento e processo visíveis | Equipamento em primeiro plano; card branco lateral; título forte. | Reforçar acompanhamento sem sugerir que a foto mostra uma ação não comprovada. |
-| AGO-07 | `serviscon_limpeza_007.jpg` | Foto vertical compatível com portfólio iniciado pela limpeza | Colaborador em destaque; título superior; chips curtos de serviços. | Cada slide apresenta um serviço com ícone e texto curto; não usar a mesma foto para representar visualmente serviços diferentes. |
-| AGO-08 | `serviscon_jardinagem_002.jpg` | EPI e atividade externa | Foto em tela cheia; faixa azul semitransparente; título central. | Capa de Reels sobre preparo e segurança, preservando EPI e equipamento. |
-| AGO-09 | `serviscon_limpeza_006.jpg` | Sinalização representa boas práticas | Placa em destaque; fundo com profundidade; selo “Boas práticas”. | Não inserir selo de certificação, medalha ou endosso da Abralimp. |
-| AGO-10 | `serviscon_limpeza_002.jpg` | Operação organizada e mecanizada | Overlay branco translúcido à esquerda; título azul-marinho; CTA ciano. | Slides com benefícios objetivos e poucos elementos. |
-| AGO-11 | `serviscon_jardinagem_001.jpg` | Área verde e colaborador real | Preservar o verde; faixa branca inferior; logo superior. | Capa vertical com recorte seguro; não alterar EPI nem ferramenta. |
-| AGO-12 | `serviscon_portaria_001.jpg` | Portaria como ponto de entrada para dúvidas | Foto vertical; cards brancos com perguntas; título azul. | Post educativo; evitar excesso de caixas e texto pequeno. |
-| AGO-13 | `serviscon_limpeza_009.jpg` | Operação em andamento para fechamento | Foto ampla; bloco branco à direita; linha ciano; CTA final. | Slides recapitulam planejamento, equipe, segurança, supervisão e adaptação. |
+## Evitar
 
-## Elementos permitidos
+- aparência de template genérico;
+- fonte excessivamente grande;
+- foto exageradamente ampliada;
+- excesso de caixas arredondadas;
+- sombras suaves em excesso;
+- degradês artificiais fortes;
+- mockups ou renderizações;
+- ícones 3D;
+- selos, números ou certificações inventadas;
+- textos pequenos demais em carrosséis.
 
-- Linhas finas, blocos retangulares, ícones lineares, números de etapa, overlays discretos e espaço negativo.
+## AGO-01 — Anúncio da feira
 
-## Elementos proibidos
+- Elemento principal: foto oficial enviada pela usuária.
+- Hierarquia:
+  1. “A Serviscon estará na Feira do Empreendedor Sebrae”;
+  2. “Venha conhecer nossas soluções em facilities.”;
+  3. “Esperamos por você!”;
+  4. logos.
+- Composição: fotografia ocupando no máximo 45% a 55% da área; texto em área livre, preferencialmente superior direita.
+- Preservar integralmente as três pessoas, rostos, roupas, crachás, estande e logos da fotografia.
+- Não inserir data, local ou estande sem confirmação.
 
-- Sombras excessivas, brilho, degradê artificial forte, selos inventados, ícones 3D, pessoas geradas, textos pequenos, excesso de chips e estética de template genérico.
+## AGO-02 — Cada ambiente exige uma solução
 
-## Aprovação necessária
+- Capa: fotografia de limpeza profissional ocupando cerca de 50% da peça.
+- Título em bloco branco ou azul-marinho com bastante respiro.
+- Slides internos: um ambiente ou necessidade por página, com ícone linear discreto.
+- Fechamento: “Diagnóstico primeiro. Solução depois.”
+- Não usar uma única foto para fingir diferentes segmentos.
 
-- AGO-09: revisar texto e qualquer menção comemorativa à Abralimp.
-- AGO-02, AGO-05, AGO-08 e AGO-11: confirmar se haverá vídeo real; caso contrário, produzir apenas a capa e marcar o roteiro como dependente de captação.
+## AGO-03 — Visita técnica
+
+- Capa vertical de Reels.
+- Usar vídeo ou foto real de visita, checklist ou supervisão.
+- Título no terço superior, sem cobrir rosto ou informação importante.
+- Inserir uma linha gráfica ligando: observar → diagnosticar → propor.
+- Se não houver registro real, marcar a peça como dependente de captação.
+
+## AGO-04 — Custo invisível
+
+- Visual de contraste entre improviso e método.
+- Evitar representar ou constranger um trabalhador individual.
+- Usar fotografia operacional real, checklist e pequenos marcadores editoriais.
+- Título com no máximo quatro linhas.
+- Slides com uma pergunta e uma consequência por página.
+
+## AGO-05 — Método de limpeza
+
+- Capa vertical documental.
+- Mostrar material, sinalização, equipamento ou profissional em ação.
+- Palavras-chave discretas: planejamento, segurança, sequência, técnica e padrão.
+- Não alterar EPI, uniforme ou posição dos equipamentos.
+
+## AGO-06 — Checklist e supervisão
+
+- Capa com fotografia de supervisão e uma captura limpa do checklist.
+- Não exibir dados de clientes.
+- Slides numerados de 1 a 6.
+- Usar linhas finas e retângulos, sem excesso de cards.
+- Sequência visual: planejar → orientar → registrar → supervisionar → corrigir → acompanhar.
+
+## AGO-07 — Responsabilidade social
+
+- Usar fotografia real e autorizada do curso.
+- Layout humano e institucional, sem aparência de peça assistencialista.
+- Título: “Capacitação também transforma oportunidades.”
+- Apoio: “Curso de Limpeza e Conservação”.
+- Valorizar participantes e instrutor sem destacar ninguém sem autorização.
+
+## AGO-08 — NR 1 e NR 6
+
+- Capa de Reels com registro real do treinamento.
+- Título: “Segurança se atualiza. O cuidado também.”
+- Apoio: “Atualização em NR 1 e NR 6”.
+- Usar ícones lineares de prevenção e EPI somente como apoio.
+- Não sugerir certificação.
+
+## AGO-09 — Relatório de diagnóstico
+
+- Carrossel com aparência de documento corporativo.
+- Capa dividida entre visita técnica e trecho fictício não preenchido de relatório.
+- Não mostrar nome, logo, valores ou dados de cliente.
+- Slides internos: situação atual, pontos de atenção, oportunidades, solução e ganhos esperados.
+- Fechamento com CTA para visita técnica.
+
+## AGO-10 — Propósito da feira
+
+- Fotografia da equipe, preparação ou estande.
+- Título: “Conexões que podem transformar operações.”
+- Apoio: “Serviscon na Feira do Empreendedor Sebrae”.
+- Visual institucional com pessoas em escala moderada e bastante espaço negativo.
+- Inserir chamada de visita apenas com dados confirmados.
+
+## AGO-11 — Antes da execução
+
+- Capa vertical mostrando bastidor real.
+- Dividir o vídeo em etapas curtas: recursos, alinhamento, segurança, prevenção, técnica e acompanhamento.
+- Tipografia pequena o suficiente para não cobrir a ação.
+- Encerramento com logo e CTA discreto.
+
+## AGO-12 — Sinais de alerta
+
+- Capa com operação real e título forte, sem tom alarmista.
+- Slides com um sinal por página.
+- Usar número grande como elemento editorial, mantendo o texto curto.
+- Último slide: “O primeiro passo é diagnosticar.”
+
+## AGO-13 — Agosto em ação
+
+- Usar mosaico organizado com registros reais do mês.
+- Evitar colagem excessiva: no máximo três imagens na capa.
+- Slides internos com fotografia inteira e texto curto.
+- Fechamento comercial com WhatsApp e e-mail.
+
+## Aprovações obrigatórias
+
+- AGO-01 e AGO-10: dados e logos da feira.
+- AGO-03 e AGO-09: visita técnica, diagnóstico e condição comercial.
+- AGO-05 e AGO-06: conteúdo operacional.
+- AGO-07: finalidade da ação e autorizações.
+- AGO-08: conteúdo de Segurança do Trabalho.
+- AGO-11: uniformes, EPI e procedimento.
+- Todas as peças: autorização de imagem e aprovação final.
+

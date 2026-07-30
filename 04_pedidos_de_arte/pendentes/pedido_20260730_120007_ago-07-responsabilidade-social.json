@@ -1,0 +1,25 @@
+{
+  "id": "AGO-07",
+  "status": "pendente_material_e_aprovacao",
+  "campanha": {
+    "nome": "Curso de Limpeza e Conservação",
+    "servico": "Responsabilidade social",
+    "canal": "Instagram",
+    "formato": "post_1080x1350"
+  },
+  "copy": {
+    "titulo": "Capacitação também transforma oportunidades.",
+    "texto_apoio": "Curso de Limpeza e Conservação",
+    "cta": "Compartilhe esta iniciativa"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_fotos_autorizadas",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar post humano e institucional usando somente fotos autorizadas do curso. Valorizar participantes e instrutor sem aparência assistencialista. Não informar número de alunos, certificados, data ou local sem confirmação.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-07-responsabilidade-social.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_material_autorizacao_e_aprovacao",
+    "producao_autorizada": false
+  }
+}

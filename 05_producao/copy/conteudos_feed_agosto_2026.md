@@ -1,208 +1,503 @@
 # Conteúdos do Feed — Agosto de 2026
 
-## AGO-01 — 03/08 — Carrossel
-**Tema:** Terceirização com gestão completa  
-**Objetivo:** Mostrar que terceirizar não significa perder controle.  
-**Capa:** Terceirizar não é perder o controle. É ganhar gestão.  
-**Subtítulo:** A Serviscon acompanha a operação do início ao fim.
+## AGO-01 — Feira do Empreendedor Sebrae
 
-**Slides**
-1. Terceirizar não é perder o controle. É ganhar gestão.
-2. A operação começa com a definição da necessidade de cada ambiente.
-3. A equipe precisa ser selecionada e orientada para a rotina contratada.
-4. Treinamento e alinhamento ajudam a manter o padrão do serviço.
-5. A supervisão acompanha a execução e identifica ajustes necessários.
-6. O cliente recebe suporte sem precisar administrar cada detalhe da equipe.
-7. Terceirização com gestão é mais organização para a operação. Fale com a Serviscon.
+- Data: 03/08
+- Formato: post 1080 × 1350
+- Pilar: institucional
 
-**Legenda:** Terceirizar não significa entregar a operação e esperar que tudo funcione sozinho. Uma prestação de serviço bem estruturada envolve seleção, orientação, acompanhamento e comunicação com o cliente. Na Serviscon, a gestão faz parte do serviço. Assim, sua empresa pode concentrar energia no próprio negócio enquanto a rotina operacional recebe o acompanhamento necessário.  
-**CTA:** Conheça nossas soluções.  
-**Hashtags:** #Serviscon #Facilities #Terceirização #GestãoOperacional #SãoLuís
+### Texto da arte
 
-## AGO-02 — 05/08 — Reels
-**Tema:** Limpeza e conservação profissional  
-**Capa:** Limpeza profissional muda a rotina da empresa.  
-**Subtítulo:** Ambientes limpos, seguros e organizados.
+**A Serviscon estará na Feira do Empreendedor Sebrae**
 
-**Roteiro — 20 a 25 segundos**
-- Cena 1: corredor antes do início da atividade. Texto: “Limpeza não é só aparência.”
-- Cena 2: colaborador preparando equipamento e EPI. Texto: “É rotina planejada.”
-- Cena 3: limpeza mecanizada do piso. Texto: “Equipamento adequado para cada necessidade.”
-- Cena 4: sinalização de piso molhado. Texto: “Segurança durante a execução.”
-- Cena 5: ambiente organizado. Texto: “Conservação que acompanha o funcionamento da empresa.”
-- Cena 6: logo e CTA. Texto: “Fale com a Serviscon.”
+Venha conhecer nossas soluções em facilities.
 
-**Texto falado:** Uma limpeza profissional vai além do resultado visual. Ela considera o ambiente, o fluxo de pessoas, os equipamentos, a segurança e a frequência necessária para manter a rotina organizada.  
-**Legenda:** Cada ambiente exige uma solução de limpeza diferente. Por isso, a execução precisa considerar fluxo, tipo de piso, frequência, equipamentos e segurança. A Serviscon estrutura a operação de limpeza e conservação de acordo com a realidade de cada espaço.  
-**CTA:** Fale com nossa equipe.  
-**Hashtags:** #LimpezaProfissional #LimpezaEConservação #Facilities #Serviscon
+**Esperamos por você!**
 
-## AGO-03 — 07/08 — Post estático
-**Tema:** Autoridade institucional  
-**Texto da arte:** Mais de 12 anos cuidando de operações essenciais.  
-**Subtítulo:** Serviscon: terceirização com responsabilidade.
+### Legenda
 
-**Legenda:** Há mais de 12 anos, a Serviscon atua com serviços que fazem parte da rotina de empresas, condomínios, instituições e órgãos públicos. Hoje, são mais de 250 colaboradores envolvidos em operações que exigem organização, acompanhamento e responsabilidade. Cada contrato representa uma rotina que não pode parar — e é assim que tratamos o nosso trabalho.  
-**CTA:** Entre em contato.  
-**Hashtags:** #Serviscon #Facilities #Terceirização #GestãoDeServiços
+Tem encontro marcado por aí. A Serviscon participará da Feira do Empreendedor Sebrae, um espaço de conexões, conhecimento e novas oportunidades.
 
-## AGO-04 — 10/08 — Carrossel
-**Tema:** O que está incluído na gestão dos serviços  
-**Capa:** O cliente contrata o serviço. A Serviscon cuida da operação.  
-**Subtítulo:** Gestão, supervisão e acompanhamento em cada etapa.
+Vamos apresentar como nossas soluções em facilities podem apoiar empresas e instituições em rotinas como limpeza e conservação, portaria, recepção, jardinagem, manutenção predial e apoio operacional.
 
-**Slides**
-1. O cliente contrata o serviço. A Serviscon cuida da operação.
-2. Entendimento da necessidade e do perfil do posto.
-3. Recrutamento e seleção da equipe.
-4. Treinamento e orientação para a rotina.
-5. Uniformes, materiais e equipamentos conforme o contrato.
-6. Supervisão e comunicação durante a execução.
-7. Acompanhamento para identificar necessidades de ajuste.
-8. Solicite um orçamento.
+Em breve, compartilharemos mais informações sobre nossa participação.
 
-**Legenda:** Uma operação terceirizada envolve muito mais do que disponibilizar profissionais. Existe um trabalho de planejamento, seleção, orientação, organização de recursos e acompanhamento. Esse conjunto ajuda a manter a rotina mais estruturada e dá ao cliente um ponto de apoio para tratar as demandas do serviço.  
-**CTA:** Solicite um orçamento.  
-**Hashtags:** #GestãoOperacional #Terceirização #Facilities #Serviscon
+### CTA
 
-## AGO-05 — 12/08 — Reels
-**Tema:** Bastidores das equipes  
-**Capa:** Qualidade aparece nos bastidores.  
-**Subtítulo:** Equipe orientada. Serviço padronizado.
+Acompanhe o perfil e venha conversar com a nossa equipe.
 
-**Roteiro — 20 segundos**
-- Cena 1: chegada ou preparação da equipe. Texto: “Antes da execução, existe alinhamento.”
-- Cena 2: separação de materiais. Texto: “Cada atividade pede os recursos certos.”
-- Cena 3: profissional em operação. Texto: “A rotina acontece com método.”
-- Cena 4: orientação ou supervisão. Texto: “Acompanhamento faz parte do serviço.”
-- Cena 5: resultado e equipe. Texto: “É assim que a operação ganha consistência.”
+### Hashtags
 
-**Legenda:** O resultado percebido pelo cliente começa antes da execução. Organização de materiais, orientação da equipe, uso correto dos equipamentos e acompanhamento fazem parte dos bastidores de uma operação profissional.  
-**CTA:** Acompanhe a Serviscon.  
-**Hashtags:** #Bastidores #EquipeServiscon #Facilities #Operação
+#Serviscon #FeiraDoEmpreendedor #Sebrae #Facilities #TerceirizaçãoDeServiços #Empreendedorismo
 
-## AGO-06 — 14/08 — Post estático
-**Tema:** Supervisão constante  
-**Texto da arte:** Serviço terceirizado precisa de acompanhamento.  
-**Subtítulo:** Com a Serviscon, a operação não fica solta.
+### Validação
 
-**Legenda:** Quando não existe acompanhamento, pequenos problemas podem se repetir e afetar toda a rotina. A supervisão aproxima a equipe da gestão, facilita a comunicação, orienta ajustes e ajuda a manter o serviço alinhado ao que foi contratado. Terceirização profissional também é presença operacional.  
-**CTA:** Conheça nossos serviços.  
-**Hashtags:** #SupervisãoOperacional #Serviscon #Terceirização #Facilities
+- Inserir data, local, horário e estande somente após confirmação.
+- Usar a foto e os logos oficiais fornecidos pela usuária.
 
-## AGO-07 — 17/08 — Carrossel
-**Tema:** Portfólio de serviços  
-**Capa:** Facilities é sobre rotinas que não podem parar.  
-**Subtítulo:** Serviços integrados para diferentes necessidades.
+---
 
-**Slides**
-1. Facilities é sobre rotinas que não podem parar.
-2. Limpeza e conservação: cuidado diário com os ambientes.
-3. Portaria: controle, orientação e presença profissional.
-4. Recepção: atendimento alinhado à imagem da organização.
-5. Copeiragem: apoio à rotina interna.
-6. Jardinagem e paisagismo: conservação de áreas verdes.
-7. Manutenção predial e serviços elétricos: suporte à estrutura.
-8. Limpeza pós-obra: preparação do ambiente para uso.
-9. Fale com nossa equipe e apresente sua necessidade.
+## AGO-02 — Cada ambiente exige uma solução diferente
 
-**Legenda:** Cada ambiente possui uma rotina própria. Por isso, a Serviscon oferece diferentes serviços de facilities, estruturados conforme a necessidade da operação. O objetivo é reunir equipe, acompanhamento e organização para apoiar o funcionamento do cliente.  
-**CTA:** Fale com nossa equipe.  
-**Hashtags:** #Facilities #ServiçosTerceirizados #Serviscon #GestãoOperacional
+- Data: 05/08
+- Formato: carrossel 1080 × 1350
+- Pilar: operação
 
-## AGO-08 — 19/08 — Reels
-**Tema:** Treinamento, segurança e qualificação  
-**Capa:** Equipe preparada não acontece por acaso.  
-**Subtítulo:** Treinamento, segurança e rotina profissional.
+### Capa
 
-**Roteiro — 20 a 25 segundos**
-- Cena 1: EPI em detalhe. Texto: “Preparação começa pela segurança.”
-- Cena 2: orientação da atividade. Texto: “Cada serviço exige conhecimento da rotina.”
-- Cena 3: profissional executando a tarefa. Texto: “Técnica e atenção durante a operação.”
-- Cena 4: supervisão ou conferência. Texto: “Acompanhamento para manter o padrão.”
-- Cena 5: assinatura. Texto: “Treinamento contínuo faz parte da Serviscon.”
+**Cada ambiente exige uma solução operacional diferente.**
 
-**Legenda:** Uma equipe preparada precisa conhecer a atividade, os riscos envolvidos, os equipamentos e o padrão esperado para a operação. Por isso, treinamento e segurança fazem parte da rotina de desenvolvimento dos colaboradores da Serviscon.  
-**CTA:** Salve este conteúdo.  
-**Hashtags:** #Treinamento #SegurançaDoTrabalho #EquipePreparada #Serviscon
+### Slides
 
-## AGO-09 — 21/08 — Post estático
-**Tema:** Boas práticas e Abralimp  
-**Texto da arte:** Boas práticas também fazem parte da operação.  
-**Subtítulo:** Segurança, cuidado e profissionalização.
+1. **Não existe uma única rotina de limpeza para todos os espaços.**
+2. Um escritório tem fluxo, mobiliário e horários próprios.
+3. Um condomínio exige atenção a áreas comuns, circulação e frequência.
+4. Ambientes de saúde, educação, indústria ou varejo apresentam riscos e necessidades diferentes.
+5. Antes de definir equipe, materiais e rotina, é preciso observar o local.
+6. **Diagnóstico primeiro. Solução depois.**
 
-**Legenda:** A limpeza profissional exige orientação, escolha adequada de recursos, sinalização, segurança e atualização constante. Como primeira empresa do Maranhão associada à Abralimp, a Serviscon reforça o compromisso com a profissionalização do setor e com práticas responsáveis na operação. Associação não substitui o trabalho diário: ela amplia o acesso ao conhecimento que ajuda a evoluir.  
-**CTA:** Conheça a Serviscon.  
-**Hashtags:** #Abralimp #LimpezaProfissional #BoasPráticas #Serviscon
+### Legenda
 
-**Aprovação:** Qualquer menção aos 40 anos da Abralimp deve ser aprovada antes da publicação.
+Limpeza profissional não começa escolhendo um produto. Começa entendendo o ambiente.
 
-## AGO-10 — 24/08 — Carrossel
-**Tema:** Benefícios da terceirização  
-**Capa:** Menos preocupação operacional. Mais foco no seu negócio.  
-**Subtítulo:** A terceirização certa muda a rotina da empresa.
+Fluxo de pessoas, tipo de piso, áreas críticas, horários, frequência, equipamentos e atividades realizadas no local influenciam diretamente o planejamento.
 
-**Slides**
-1. Menos preocupação operacional. Mais foco no seu negócio.
-2. Uma equipe estruturada para a necessidade contratada.
-3. Treinamento e orientação antes e durante a operação.
-4. Supervisão para apoiar a rotina e tratar ajustes.
-5. Padronização dos processos e da apresentação da equipe.
-6. Apoio na gestão de faltas, mudanças e demandas do serviço.
-7. Mais tempo para o cliente cuidar da atividade principal.
-8. Solicite um orçamento.
+Por isso, a Serviscon avalia cada necessidade antes de apresentar uma solução operacional.
 
-**Legenda:** O benefício da terceirização não está apenas em transferir uma atividade. Está em contar com uma estrutura que apoia a seleção, a orientação e o acompanhamento da equipe. Isso reduz o tempo gasto pelo cliente com detalhes operacionais e permite mais foco no próprio negócio.  
-**CTA:** Solicite um orçamento.  
-**Hashtags:** #Terceirização #Facilities #GestãoDeEquipes #Serviscon
+### CTA
 
-## AGO-11 — 26/08 — Reels
-**Tema:** Jardinagem e paisagismo  
-**Capa:** Áreas verdes também comunicam cuidado.  
-**Subtítulo:** Jardinagem e paisagismo com equipe preparada.
+Solicite uma visita técnica e converse com nossa equipe.
 
-**Roteiro — 15 a 20 segundos**
-- Cena 1: plano geral da área verde. Texto: “A primeira impressão também está do lado de fora.”
-- Cena 2: profissional com EPI. Texto: “Segurança para executar.”
-- Cena 3: roçagem, poda ou conservação. Texto: “Rotina para manter o espaço cuidado.”
-- Cena 4: detalhe do ambiente. Texto: “Jardinagem e paisagismo fazem parte das nossas soluções.”
-- Cena 5: CTA. Texto: “Tire suas dúvidas conosco.”
+### Hashtags
 
-**Legenda:** Áreas verdes bem cuidadas contribuem para a conservação, a organização e a apresentação dos espaços. A Serviscon atua com jardinagem e paisagismo por meio de equipes preparadas e recursos compatíveis com cada atividade.  
-**CTA:** Tire suas dúvidas conosco.  
-**Hashtags:** #Jardinagem #Paisagismo #Facilities #Serviscon
+#LimpezaProfissional #Facilities #GestãoOperacional #VisitaTécnica #Serviscon #Terceirização
 
-## AGO-12 — 28/08 — Post estático
-**Tema:** Perguntas frequentes  
-**Texto da arte:** Dúvidas sobre terceirização? Comece por aqui.  
-**Subtítulo:** O que sua empresa precisa saber antes de contratar.
+---
 
-**Legenda:** Antes de contratar, é importante entender o escopo do serviço, a quantidade de postos, os horários, as responsabilidades de cada parte, os recursos incluídos e como será feito o acompanhamento. Uma proposta bem construída começa com informações claras sobre a realidade da operação. Converse com nossa equipe e apresente sua necessidade.  
-**CTA:** Fale com nossa equipe.  
-**Hashtags:** #DúvidasSobreTerceirização #Facilities #Serviscon #ContrataçãoDeServiços
+## AGO-03 — O que observamos em uma visita técnica
 
-## AGO-13 — 31/08 — Carrossel
-**Tema:** Fechamento do mês  
-**Capa:** O que a rotina mostra sobre terceirização profissional?  
-**Subtítulo:** Gestão, equipe, segurança e acompanhamento todos os dias.
+- Data: 07/08
+- Formato: Reels 1080 × 1920
+- Pilar: comercial
+- Duração sugerida: 20 a 30 segundos
 
-**Slides**
-1. O que a rotina mostra sobre terceirização profissional?
-2. Que executar bem começa com planejamento.
-3. Que equipes precisam de orientação e recursos adequados.
-4. Que segurança deve fazer parte de cada atividade.
-5. Que supervisão ajuda a manter o serviço alinhado.
-6. Que cada ambiente exige uma solução operacional diferente.
-7. Que o cliente precisa de apoio, não de mais uma preocupação.
-8. Conheça as soluções da Serviscon.
+### Gancho na tela
 
-**Legenda:** Ao longo do mês, mostramos que uma operação terceirizada envolve pessoas, processos, recursos, segurança e acompanhamento. Não existe uma solução única para todos os ambientes. Existe uma estrutura que precisa ser adaptada à realidade de cada cliente. Esse é o ponto de partida do nosso trabalho.  
-**CTA:** Entre em contato.  
-**Hashtags:** #Serviscon #Facilities #TerceirizaçãoProfissional #GestãoOperacional
+**O que observamos antes de propor uma solução?**
 
-## Observações gerais de aprovação
+### Roteiro
 
-- Confirmar fotos e vídeos disponíveis para os quatro Reels.
-- Não citar clientes ou resultados sem autorização.
-- Manter telefone e e-mail apenas nas peças em que houver espaço e aprovação.
-- Revisar a publicação AGO-09 com cuidado para não apresentar associação como certificação.
+1. Plano aberto do ambiente.  
+   Texto: “A visita começa entendendo a rotina do local.”
+2. Circulação de pessoas ou acesso.  
+   Texto: “Fluxos, horários e áreas de maior uso.”
+3. Piso, mobiliário ou área crítica.  
+   Texto: “Estrutura, superfícies e pontos de atenção.”
+4. Profissional fazendo anotações ou checklist.  
+   Texto: “Riscos, necessidades e oportunidades de melhoria.”
+5. Conversa com o responsável pelo local.  
+   Texto: “A solução precisa fazer sentido para quem vive a operação.”
+6. Encerramento com logo.  
+   Texto: “Visita técnica → diagnóstico → solução adequada.”
+
+### Locução
+
+Antes de definir equipe, materiais ou frequência, precisamos entender o ambiente. Na visita técnica, observamos fluxos, estrutura, áreas críticas, horários e necessidades específicas. Essas informações ajudam a construir uma solução mais adequada para a operação.
+
+### Legenda
+
+Uma boa proposta começa com perguntas e observação.
+
+Durante a visita técnica, a Serviscon busca compreender a realidade do local antes de recomendar uma solução. O objetivo é reduzir improvisos e apresentar um escopo coerente com a necessidade do cliente.
+
+### CTA
+
+Quer conversar sobre sua operação? Entre em contato.
+
+### Material
+
+Vídeos reais de uma visita técnica autorizada. Na ausência deles, usar supervisão em campo sem afirmar que a cena registra uma visita específica.
+
+---
+
+## AGO-04 — O custo invisível de contratar “só uma pessoa”
+
+- Data: 10/08
+- Formato: carrossel 1080 × 1350
+- Pilar: comercial
+
+### Capa
+
+**O custo invisível de contratar “só uma pessoa” para resolver uma operação**
+
+### Slides
+
+1. O salário é apenas uma parte da rotina operacional.
+2. Quem seleciona, orienta e acompanha o profissional?
+3. Quem organiza a substituição em caso de falta ou afastamento?
+4. Quem define materiais, equipamentos, frequência e padrão?
+5. Quem identifica falhas antes que elas se tornem recorrentes?
+6. Quando tudo depende do gestor, o custo também aparece em tempo, risco e perda de foco.
+7. **Terceirizar com gestão é contratar uma operação acompanhada.**
+
+### Legenda
+
+Este conteúdo não diminui o trabalho de nenhum profissional. A reflexão é sobre a estrutura necessária para manter uma operação funcionando.
+
+Além da execução, existem seleção, orientação, materiais, substituições, segurança, supervisão e controle do serviço. Quando essas responsabilidades ficam concentradas no cliente, o tempo da gestão também entra na conta.
+
+Uma terceirização bem estruturada organiza essas etapas e oferece acompanhamento.
+
+### CTA
+
+Converse com a Serviscon e entenda qual modelo faz sentido para sua realidade.
+
+### Hashtags
+
+#GestãoDeFacilities #Terceirização #GestãoOperacional #Produtividade #Serviscon #Empresas
+
+---
+
+## AGO-05 — Limpeza profissional é método
+
+- Data: 12/08
+- Formato: Reels 1080 × 1920
+- Pilar: operação
+- Duração sugerida: 20 segundos
+
+### Gancho
+
+**Limpeza profissional é método, não improviso.**
+
+### Roteiro
+
+1. Separação dos materiais.  
+   Texto: “Planejamento”
+2. Sinalização da área.  
+   Texto: “Segurança”
+3. Execução do fundo para a saída.  
+   Texto: “Sequência”
+4. Uso correto de equipamento.  
+   Texto: “Técnica”
+5. Conferência do ambiente.  
+   Texto: “Padrão”
+6. Encerramento.  
+   Texto: “Organização em cada etapa.”
+
+### Locução
+
+Limpeza profissional vai além de limpar. Exige técnica, organização, segurança e uma sequência definida. O resultado depende do que acontece antes, durante e depois da execução.
+
+### Legenda
+
+Produto em excesso não substitui técnica. Pressa não substitui planejamento.
+
+Uma rotina profissional considera o tipo de superfície, a ordem da execução, a sinalização, os equipamentos e a conferência do serviço. É assim que a operação ganha mais segurança e padronização.
+
+### CTA
+
+Salve este conteúdo e compartilhe com quem cuida da operação.
+
+### Validação
+
+Submeter as orientações operacionais à equipe responsável antes da publicação.
+
+---
+
+## AGO-06 — Checklist e supervisão
+
+- Data: 14/08
+- Formato: carrossel 1080 × 1350
+- Pilar: operação
+
+### Capa
+
+**Do checklist à supervisão: como a rotina ganha padrão**
+
+### Slides
+
+1. **Planejar:** definir atividades, frequência e responsáveis.
+2. **Orientar:** alinhar o padrão esperado com a equipe.
+3. **Registrar:** usar checklist para acompanhar o que foi executado.
+4. **Supervisionar:** observar a rotina e identificar necessidades.
+5. **Corrigir:** agir sobre falhas e orientar melhorias.
+6. **Acompanhar:** manter comunicação com o cliente.
+7. **Execução registrada. Operação acompanhada.**
+
+### Legenda
+
+Uma operação não ganha padrão apenas com uma lista de tarefas.
+
+O checklist ajuda a registrar. A supervisão ajuda a interpretar. A comunicação ajuda a corrigir e manter o serviço alinhado à necessidade do cliente.
+
+Tecnologia e presença operacional precisam trabalhar juntas.
+
+### CTA
+
+Conheça a gestão operacional da Serviscon.
+
+### Hashtags
+
+#ChecklistDigital #SupervisãoOperacional #Facilities #GestãoDeServiços #Serviscon #ControleDeQualidade
+
+### Material
+
+Captura autorizada do sistema de checklist sem dados de clientes e foto real de supervisão.
+
+---
+
+## AGO-07 — Responsabilidade social e capacitação
+
+- Data: 17/08
+- Formato: post 1080 × 1350
+- Pilar: pessoas
+
+### Texto da arte
+
+**Capacitação também transforma oportunidades.**
+
+Curso de Limpeza e Conservação
+
+### Legenda
+
+Compartilhar conhecimento também faz parte da responsabilidade social.
+
+A Serviscon promoveu um curso profissionalizante de Limpeza e Conservação voltado a pessoas da comunidade, contribuindo para o desenvolvimento de habilidades, a qualificação profissional e a criação de novas oportunidades.
+
+Mais do que ensinar técnicas, a iniciativa reforça a importância de estudar, se preparar e valorizar uma atividade essencial para tantos ambientes.
+
+### CTA
+
+Compartilhe esta iniciativa e incentive a qualificação profissional.
+
+### Hashtags
+
+#ResponsabilidadeSocial #CapacitaçãoProfissional #LimpezaEConservação #Qualificação #Serviscon #ImpactoSocial
+
+### Validação
+
+Confirmar autorização de imagem dos participantes e a forma oficial de descrever o público atendido.
+
+---
+
+## AGO-08 — Atualização em NR 1 e NR 6
+
+- Data: 19/08
+- Formato: Reels 1080 × 1920
+- Pilar: pessoas
+- Duração sugerida: 15 a 25 segundos
+
+### Gancho
+
+**Segurança se atualiza. O cuidado também.**
+
+### Roteiro
+
+1. Abertura do treinamento.  
+   Texto: “Atualização em Segurança do Trabalho”
+2. Orientação do instrutor.  
+   Texto: “NR 1 — prevenção e gerenciamento de riscos”
+3. Demonstração ou conferência de EPI.  
+   Texto: “NR 6 — uso e cuidado com os EPIs”
+4. Equipe acompanhando.  
+   Texto: “Conhecimento que protege”
+5. Encerramento.  
+   Texto: “Segurança é compromisso diário.”
+
+### Legenda
+
+Segurança do trabalho não é assunto para uma única data.
+
+A atualização sobre NR 1 e NR 6 reforça orientações importantes sobre prevenção, riscos ocupacionais e uso adequado de Equipamentos de Proteção Individual.
+
+Manter as equipes orientadas é uma forma de cuidar das pessoas e da operação.
+
+### CTA
+
+Segurança se constrói todos os dias.
+
+### Validação
+
+Revisar o texto com Segurança do Trabalho e confirmar data, participantes e registros.
+
+---
+
+## AGO-09 — O relatório do diagnóstico
+
+- Data: 21/08
+- Formato: carrossel 1080 × 1350
+- Pilar: comercial
+
+### Capa
+
+**Depois da visita, o cliente recebe clareza.**
+
+### Slides
+
+1. **Situação atual:** como a operação funciona hoje.
+2. **Pontos de atenção:** gargalos, ineficiências e riscos observados.
+3. **Oportunidades de melhoria:** o que pode ser reorganizado.
+4. **Solução recomendada:** equipe, atividades, frequência e recursos adequados.
+5. **Ganhos esperados:** mais organização, acompanhamento e previsibilidade.
+6. **Um relatório para apoiar decisões, não apenas apresentar preço.**
+
+### Legenda
+
+A visita técnica não deve terminar em uma proposta genérica.
+
+As informações observadas precisam ser organizadas para que o cliente compreenda a situação atual, os pontos de atenção e as possibilidades de melhoria.
+
+O relatório de diagnóstico comunica profissionalismo, transparência e personalização. Ele ajuda a transformar uma necessidade operacional em uma decisão mais segura.
+
+### CTA
+
+Solicite uma visita técnica e conheça melhor sua operação.
+
+### Hashtags
+
+#DiagnósticoOperacional #VisitaTécnica #Facilities #GestãoOperacional #Serviscon #SoluçãoPersonalizada
+
+---
+
+## AGO-10 — Por que participar da feira
+
+- Data: 24/08
+- Formato: post 1080 × 1350
+- Pilar: liderança
+
+### Texto da arte
+
+**Conexões que podem transformar operações.**
+
+Serviscon na Feira do Empreendedor Sebrae
+
+### Legenda
+
+Participar da Feira do Empreendedor Sebrae é uma oportunidade de ouvir, criar conexões e apresentar soluções para desafios reais das empresas.
+
+No encontro, a Serviscon levará sua experiência em terceirização e facilities, com serviços que apoiam o funcionamento de diferentes ambientes.
+
+Também queremos conhecer novas empresas, parceiros e fornecedores, fortalecer o networking e abrir espaço para novos negócios.
+
+### CTA
+
+Visite nosso estande e converse com a equipe.
+
+### Validação
+
+Inserir chamada de visita apenas quando local, data e estande estiverem confirmados.
+
+---
+
+## AGO-11 — O resultado começa antes da execução
+
+- Data: 26/08
+- Formato: Reels 1080 × 1920
+- Pilar: operação
+- Duração sugerida: 20 a 30 segundos
+
+### Gancho
+
+**O resultado começa antes da execução.**
+
+### Roteiro
+
+1. Conferência de materiais.  
+   Texto: “Recursos”
+2. Equipe recebendo orientação.  
+   Texto: “Alinhamento”
+3. Profissional colocando EPI.  
+   Texto: “Segurança”
+4. Sinalização do ambiente.  
+   Texto: “Prevenção”
+5. Execução do serviço.  
+   Texto: “Técnica”
+6. Supervisão ou checklist.  
+   Texto: “Acompanhamento”
+7. Ambiente organizado.  
+   Texto: “Operação bem cuidada”
+
+### Legenda
+
+Quando o serviço começa, muita coisa já precisou acontecer.
+
+Materiais disponíveis, equipe orientada, equipamentos adequados, EPIs conferidos, área sinalizada e rotina definida. A execução é apenas a parte mais visível de uma operação profissional.
+
+### CTA
+
+Veja como a Serviscon pode apoiar a rotina da sua empresa.
+
+---
+
+## AGO-12 — 5 sinais de alerta
+
+- Data: 28/08
+- Formato: carrossel 1080 × 1350
+- Pilar: operação
+
+### Capa
+
+**5 sinais de que sua operação precisa ser reorganizada**
+
+### Slides
+
+1. As atividades dependem de cobranças diárias.
+2. Faltas e substituições sempre viram emergência.
+3. Não existe frequência ou padrão claramente definido.
+4. Materiais e equipamentos acabam sem planejamento.
+5. O gestor só percebe a falha depois da reclamação.
+6. **Se esses sinais fazem parte da rotina, o primeiro passo é diagnosticar.**
+
+### Legenda
+
+Nem todo problema operacional aparece de uma vez. Muitas vezes, ele se repete em pequenas situações: tarefas esquecidas, materiais em falta, responsabilidades indefinidas e reclamações recorrentes.
+
+Reconhecer esses sinais ajuda a agir antes que a desorganização afete o ambiente, as pessoas e o tempo da gestão.
+
+### CTA
+
+Fale com a Serviscon sobre sua operação.
+
+### Hashtags
+
+#GestãoOperacional #Facilities #RotinaEmpresarial #Terceirização #Serviscon #Diagnóstico
+
+---
+
+## AGO-13 — Agosto em ação
+
+- Data: 31/08
+- Formato: carrossel 1080 × 1350
+- Pilar: institucional
+
+### Capa
+
+**Agosto em ação**
+
+Diagnóstico, capacitação, segurança e conexões.
+
+### Slides
+
+1. Mostramos por que cada ambiente exige uma solução diferente.
+2. Explicamos o papel da visita técnica e do diagnóstico.
+3. Falamos de método, checklist e supervisão.
+4. Valorizamos capacitação, responsabilidade social e segurança.
+5. Abrimos novas conexões na Feira do Empreendedor Sebrae.
+6. **Agora queremos entender a realidade da sua operação.**
+
+### Legenda
+
+Agosto reuniu assuntos que fazem parte da forma como a Serviscon trabalha: observar antes de propor, preparar antes de executar e acompanhar para manter a operação organizada.
+
+Também foi um mês de capacitação, responsabilidade, segurança e novas conexões.
+
+Cada ambiente tem uma realidade. Por isso, nossa próxima conversa pode começar entendendo a sua.
+
+### CTA
+
+Fale com a Serviscon pelo WhatsApp (98) 98613-3076 ou pelo e-mail comercial@serviscon.com.br.
+
+### Hashtags
+
+#Serviscon #Facilities #GestãoOperacional #LimpezaProfissional #TerceirizaçãoDeServiços #SãoLuís
+

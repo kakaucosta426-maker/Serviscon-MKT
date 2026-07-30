@@ -1,135 +1,68 @@
-# Diagnóstico de Marketing — Agosto de 2026
+# Diagnóstico de Marketing — Replanejamento de Agosto de 2026
 
-## 1. Escopo analisado
+## Motivo da recriação
 
-Este diagnóstico considera o briefing oficial da Serviscon, o calendário editorial de agosto de 2026, o planejamento revisado, as orientações visuais, os agentes do repositório e o catálogo oficial de imagens.
+O planejamento anterior estava consistente, mas concentrava muitos conteúdos em explicações semelhantes sobre terceirização, supervisão e portfólio. A nova versão cria uma narrativa mais atual, comercial e conectada às ações reais da Serviscon.
 
-## 2. Objetivos comerciais do período
+## Oportunidades atuais
 
-- Fortalecer a autoridade institucional da Serviscon.
-- Aumentar o reconhecimento da marca entre decisores B2B.
-- Educar o mercado sobre terceirização com gestão completa.
-- Apresentar serviços prioritários, com destaque para limpeza e conservação.
-- Gerar oportunidades comerciais por WhatsApp e e-mail.
-- Demonstrar que a contratação inclui equipe, acompanhamento, treinamento, segurança e padronização.
+1. **Feira do Empreendedor Sebrae**  
+   A participação oferece pauta institucional, networking, geração de oportunidades e apresentação das soluções de facilities.
 
-## 3. Público prioritário
+2. **Visita técnica com diagnóstico**  
+   O público precisa entender o que é observado, por que isso importa e o que recebe depois da visita.
 
-- Empresários e gestores administrativos.
-- Síndicos e administradores de condomínios.
-- Responsáveis por compras e contratos.
-- Gestores de instituições e órgãos públicos.
-- Decisores que enfrentam faltas, rotatividade, baixa padronização ou dificuldade de supervisionar equipes operacionais.
+3. **Marketing próximo da operação**  
+   O relatório do diagnóstico transforma conhecimento operacional em material claro, profissional e útil para o cliente.
 
-## 4. Dores que devem orientar a comunicação
+4. **Responsabilidade social**  
+   O curso de Limpeza e Conservação para pessoas que não fazem parte do quadro de colaboradores reforça capacitação e geração de oportunidades.
 
-1. Falta de funcionários e necessidade de substituição.
-2. Operação sem acompanhamento ou padrão definido.
-3. Tempo excessivo gasto pelo cliente com problemas operacionais.
-4. Dúvidas sobre qualidade, cumprimento do contrato e supervisão.
-5. Necessidade de ambientes limpos, organizados, seguros e bem apresentados.
-6. Receio de contratar terceirização e perder o controle da operação.
+5. **Treinamento e segurança**  
+   A atualização em NR 1 e NR 6 demonstra prevenção, responsabilidade e cuidado contínuo.
 
-## 5. Serviços prioritários
+6. **Limpeza como serviço principal**  
+   A comunicação deve ir além de ambientes bonitos e explicar método, planejamento, técnica, segurança e padronização.
 
-### Prioridade alta
+## Problemas do conteúdo genérico
 
-- Limpeza e conservação.
-- Supervisão e gestão operacional.
-- Portaria.
+- temas parecidos competem entre si;
+- o feed pode parecer um catálogo;
+- benefícios ficam abstratos;
+- o público não identifica a próxima ação;
+- a operação real e as pessoas aparecem pouco;
+- eventos e ações institucionais não são aproveitados comercialmente.
 
-### Prioridade complementar
+## Nova oportunidade narrativa
 
-- Recepção.
-- Copeiragem.
-- Jardinagem e paisagismo.
-- Manutenção predial.
-- Serviços elétricos.
-- Limpeza pós-obra.
+O mês passa a acompanhar a transformação de uma dor em solução:
 
-A limpeza e conservação deve permanecer como principal porta de entrada comercial, enquanto os demais serviços ampliam a percepção de capacidade em facilities.
+**Problema percebido → visita técnica → diagnóstico → proposta adequada → equipe preparada → execução acompanhada → relacionamento.**
 
-## 6. Diferenciais comprovados
+## Distribuição editorial
 
-- Mais de 12 anos de mercado.
-- Mais de 250 colaboradores.
-- Supervisão constante das equipes.
-- Treinamento contínuo.
-- Atendimento personalizado.
-- Gestão operacional completa.
-- Primeira empresa do Maranhão associada à Abralimp.
-- Compromisso com qualidade, segurança e responsabilidade social.
+| Pilar | Conteúdos | Justificativa |
+|---|---|---|
+| Operação | AGO-02, AGO-05, AGO-06, AGO-11, AGO-12 | Mostrar método, padrão e execução |
+| Pessoas | AGO-07, AGO-08 | Humanizar e demonstrar responsabilidade |
+| Comercial | AGO-03, AGO-04, AGO-09 | Gerar consciência e conversão |
+| Liderança | AGO-10 | Mostrar visão e abertura ao mercado |
+| Institucional | AGO-01, AGO-13 | Fortalecer presença e reputação |
 
-Nenhum número, cliente, resultado, certificação ou case além dos já registrados deve ser citado sem aprovação.
+## Proposta de valor traduzida
 
-## 7. Avaliação do calendário existente
+A Serviscon não entrega apenas pessoas para executar tarefas. Ela avalia necessidades, estrutura equipes, acompanha a rotina e ajuda o cliente a manter a operação organizada.
 
-O calendário possui 13 publicações de feed, distribuídas em carrosséis, Reels e posts estáticos, além de presença diária nos Stories.
+## Cuidados obrigatórios
 
-### Pontos fortes
+- A feira está confirmada como pauta, mas data, local, horário e estande não podem ser inventados.
+- O curso só deve ser chamado de ação de responsabilidade social se os registros e a finalidade estiverem confirmados.
+- Conteúdos sobre NR 1, NR 6, EPI e técnicas de limpeza precisam de validação técnica.
+- O diagnóstico gratuito não deve ser anunciado como promessa permanente sem aprovação comercial.
+- Relatórios não devem expor dados de clientes.
+- Fotografias de pessoas e ambientes dependem de autorização.
 
-- Boa presença de limpeza e conservação, serviço principal.
-- Combinação de autoridade, educação, bastidores e venda.
-- Uso planejado de fotografias reais.
-- Presença de supervisão, treinamento, segurança e serviços complementares.
-- CTAs comerciais distribuídos ao longo do mês.
+## Recomendação final
 
-### Pontos de atenção
+Usar agosto para tornar a Serviscon mais fácil de compreender: uma empresa que observa, planeja, prepara, acompanha e se relaciona. A venda aparece como consequência de uma comunicação útil e demonstrável.
 
-- Os Stories estavam descritos de forma genérica e precisavam de textos executáveis.
-- Alguns temas de gestão e terceirização são próximos e exigem ângulos diferentes para evitar repetição.
-- A palavra “qualidade” aparecia com frequência elevada nas orientações existentes.
-- Conteúdos de responsabilidade social dependem de registros e informações confirmadas.
-- Cases e provas sociais não devem ser utilizados sem autorização específica.
-- A publicação sobre Abralimp deve limitar-se à associação comprovada e às boas práticas, sem sugerir certificação ou endosso comercial.
-
-## 8. Distribuição estratégica recomendada
-
-| Pilar | Publicações principais | Função |
-|---|---:|---|
-| Autoridade e confiança | AGO-03, AGO-09, AGO-13 | Reforçar credibilidade institucional |
-| Educação sobre terceirização | AGO-01, AGO-04, AGO-10, AGO-12 | Reduzir objeções e explicar o modelo |
-| Serviço principal | AGO-02, AGO-06 | Demonstrar limpeza profissional e acompanhamento |
-| Bastidores e pessoas | AGO-05, AGO-08 | Humanizar e mostrar preparo |
-| Portfólio | AGO-07, AGO-11 | Ampliar conhecimento sobre os serviços |
-
-## 9. Ângulos para evitar repetição
-
-- AGO-01: terceirização como ganho de gestão.
-- AGO-04: o que a gestão inclui na prática.
-- AGO-06: supervisão como rotina de acompanhamento.
-- AGO-10: impacto da terceirização na rotina do cliente.
-- AGO-12: dúvidas antes da contratação.
-
-Cada conteúdo deve responder a uma pergunta diferente, mesmo quando compartilha o tema geral de terceirização.
-
-## 10. Oportunidades editoriais verificadas
-
-- O mercado de limpeza profissional vem reforçando o papel estratégico da atividade dentro de facilities, com atenção a dados, capacitação e gestão.
-- A Abralimp completa 40 anos em 21 de agosto de 2026. Essa informação pode enriquecer o contexto da publicação AGO-09, mas qualquer menção comemorativa deve passar por aprovação humana antes da publicação.
-- A participação da Serviscon na Higiexpo 2026 somente poderá ser comunicada após confirmação formal da empresa.
-
-## 11. KPIs recomendados
-
-- Alcance por publicação.
-- Compartilhamentos e salvamentos.
-- Retenção dos Reels.
-- Respostas e interações nos Stories.
-- Visitas ao perfil.
-- Cliques ou contatos iniciados pelo WhatsApp.
-- Solicitações de orçamento identificadas como originadas do Instagram.
-
-Não foram definidas metas numéricas porque não há histórico consolidado ou meta aprovada no briefing.
-
-## 12. Dependências
-
-- Aprovação das pautas, copies e artes.
-- Fotos e vídeos atuais das operações.
-- Confirmação de treinamentos, ações sociais e eventos.
-- Autorização para citar clientes, cases ou resultados.
-- Confirmação de participação na Higiexpo 2026.
-- Confirmação do responsável comercial pelo contato.
-
-## 13. Recomendação ao Estrategista
-
-Manter as 13 publicações existentes, diferenciar claramente os ângulos de gestão e terceirização, transformar os Stories em sequências práticas e reservar conteúdos dependentes de registros reais como oportunidades condicionais. A produção deve priorizar fotografia real, linguagem simples e benefícios operacionais compreensíveis para gestores e síndicos.

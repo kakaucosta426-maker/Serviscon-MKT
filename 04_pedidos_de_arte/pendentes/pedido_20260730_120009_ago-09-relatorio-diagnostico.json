@@ -1,0 +1,25 @@
+{
+  "id": "AGO-09",
+  "status": "pendente_material_e_aprovacao",
+  "campanha": {
+    "nome": "Relatório do diagnóstico operacional",
+    "servico": "Diagnóstico operacional",
+    "canal": "Instagram",
+    "formato": "carrossel_1080x1350"
+  },
+  "copy": {
+    "titulo": "Depois da visita, o cliente recebe clareza.",
+    "texto_apoio": "Situação atual, pontos de atenção e oportunidades de melhoria.",
+    "cta": "Solicite seu diagnóstico"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_modelo_seguro",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar carrossel com aparência de documento corporativo, combinando registro autorizado da visita e modelo de relatório sem dados reais. Slides: situação atual, pontos de atenção, oportunidades, solução e ganhos esperados. Não inserir nome, logo, valor ou dado de cliente.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-09-relatorio-diagnostico.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_modelo_condicao_comercial_e_aprovacao",
+    "producao_autorizada": false
+  }
+}

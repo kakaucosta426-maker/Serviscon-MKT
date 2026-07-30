@@ -1,0 +1,25 @@
+{
+  "id": "AGO-03",
+  "status": "pendente_captacao",
+  "campanha": {
+    "nome": "O que observamos em uma visita técnica",
+    "servico": "Diagnóstico operacional",
+    "canal": "Instagram",
+    "formato": "reels_1080x1920"
+  },
+  "copy": {
+    "titulo": "O que observamos antes de propor uma solução?",
+    "texto_apoio": "Visita técnica → diagnóstico → solução adequada.",
+    "cta": "Agende um diagnóstico"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_video_real",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar apenas após receber registros autorizados de visita técnica. Preservar pessoas e ambiente. Mostrar observação do local, fluxo, estrutura, checklist e conversa. Título no terço superior, linhas editoriais discretas e sem cobrir rostos. Não afirmar que uma foto de supervisão registra visita técnica.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-03-visita-tecnica.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_captacao_e_aprovacao",
+    "producao_autorizada": false
+  }
+}
