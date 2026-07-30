@@ -1,109 +1,110 @@
 # Estratégia de Conteúdo — Agosto de 2026
 
-## Direção do mês
+## Tese do mês
 
-Agosto será organizado em torno da ideia: **uma boa terceirização não entrega apenas pessoas; entrega uma operação acompanhada**.
+A Serviscon não deve comunicar apenas a execução de serviços. O conteúdo precisa mostrar a capacidade de **entender uma necessidade, organizar uma solução e acompanhar a operação**.
 
-A comunicação deve mostrar a Serviscon como uma empresa capaz de entender rotinas, selecionar equipes, orientar a execução, acompanhar o serviço e apoiar o cliente.
+## Conceito
+
+**Da necessidade à solução: uma operação bem cuidada começa com diagnóstico.**
 
 ## Objetivos
 
-1. Tornar a proposta da Serviscon mais fácil de compreender.
-2. Reforçar limpeza e conservação como serviço principal.
-3. Demonstrar gestão, supervisão, treinamento e segurança.
-4. Apresentar o portfólio sem transformar o perfil em catálogo.
-5. Gerar conversas comerciais com gestores, empresários e síndicos.
+1. Posicionar a Serviscon como parceira de gestão, não apenas fornecedora de mão de obra.
+2. Reforçar limpeza e conservação como principal porta de entrada comercial.
+3. Tornar a visita técnica e o diagnóstico compreensíveis e desejáveis.
+4. Demonstrar responsabilidade social e cuidado com as pessoas.
+5. Usar a Feira do Empreendedor Sebrae como oportunidade de marca, networking e geração de negócios.
+6. Levar decisores ao WhatsApp ou ao e-mail comercial.
 
-## Pilares
+## Público prioritário
 
-### 1. Gestão que reduz preocupações
-Conteúdos: AGO-01, AGO-04, AGO-06 e AGO-10.
+- empresários;
+- gestores administrativos e operacionais;
+- síndicos e administradoras de condomínios;
+- responsáveis por compras e contratos;
+- instituições e órgãos públicos;
+- empresas com equipe própria, em expansão ou com dificuldade de padronização.
 
-### 2. Operação real
-Conteúdos: AGO-02, AGO-05 e AGO-08.
+## Dores trabalhadas
 
-### 3. Autoridade responsável
-Conteúdos: AGO-03, AGO-09 e AGO-13.
+- faltas e substituições que desorganizam a rotina;
+- tempo do gestor consumido por problemas operacionais;
+- ausência de padrão, checklist e supervisão;
+- solução igual aplicada a ambientes diferentes;
+- riscos de segurança e falhas de treinamento;
+- dificuldade de enxergar o que precisa melhorar antes de contratar.
 
-### 4. Portfólio conectado à rotina
-Conteúdos: AGO-07 e AGO-11.
+## Resposta da marca
 
-### 5. Educação e redução de objeções
-Conteúdo: AGO-12, além de Stories de perguntas e respostas.
+- visita técnica;
+- diagnóstico simplificado;
+- solução adequada à realidade do local;
+- equipe treinada;
+- supervisão operacional;
+- checklist e registros;
+- acompanhamento e relacionamento.
 
-## Jornada do público
+## Funil editorial
 
-- **Descoberta:** identificação com problemas operacionais.
-- **Compreensão:** explicação do que existe por trás do serviço.
-- **Confiança:** equipe real, supervisão, segurança e histórico.
-- **Consideração:** apresentação de serviços e respostas a dúvidas.
-- **Contato:** CTA direto para orçamento ou conversa com a equipe.
+| Etapa | Conteúdos | Resultado esperado |
+|---|---|---|
+| Descoberta | AGO-01, AGO-04, AGO-10 | Reconhecimento e identificação |
+| Educação | AGO-02, AGO-05, AGO-12 | Compreensão da necessidade |
+| Confiança | AGO-06, AGO-07, AGO-08, AGO-11 | Percepção de método e responsabilidade |
+| Consideração | AGO-03, AGO-09 | Interesse em visita técnica |
+| Conversão | AGO-13 + CTAs dos Stories | Contato comercial |
 
-## Distribuição do feed
+## Mensagens-chave
 
-| ID | Função estratégica | Emoção principal | Gatilho |
-|---|---|---|---|
-| AGO-01 | Quebrar objeção sobre perda de controle | Alívio | Contraste |
-| AGO-02 | Valorizar limpeza profissional | Segurança | Demonstração |
-| AGO-03 | Reforçar credibilidade | Confiança | Autoridade |
-| AGO-04 | Explicar a gestão completa | Clareza | Especificidade |
-| AGO-05 | Humanizar os bastidores | Proximidade | Bastidor |
-| AGO-06 | Mostrar importância da supervisão | Tranquilidade | Prevenção |
-| AGO-07 | Apresentar o portfólio | Compreensão | Amplitude |
-| AGO-08 | Valorizar treinamento e segurança | Respeito | Preparação |
-| AGO-09 | Relacionar boas práticas e profissionalização | Confiança | Autoridade responsável |
-| AGO-10 | Traduzir benefícios para o cliente | Alívio | Transformação |
-| AGO-11 | Divulgar jardinagem | Cuidado | Estética e conservação |
-| AGO-12 | Responder objeções | Segurança | Redução de risco |
-| AGO-13 | Consolidar o mês | Confiança | Recapitulação |
+- Cada ambiente exige uma solução operacional diferente.
+- Limpeza profissional exige técnica, organização e segurança.
+- A visita técnica transforma observação em diagnóstico.
+- O relatório oferece clareza para decidir.
+- Supervisão e checklist ajudam a manter o padrão.
+- Capacitar pessoas também faz parte da responsabilidade social.
+- A Serviscon participa da feira para criar conexões e apresentar soluções.
 
-## Ganchos considerados
+## Linguagem
 
-Para cada peça, o Copywriter deverá considerar pelo menos cinco opções e selecionar a mais clara. Os caminhos principais serão:
+- simples, direta e humana;
+- profissional sem excesso de formalidade;
+- comercial sem pressão;
+- educativa sem jargões;
+- frases curtas nas artes;
+- explicações concretas nas legendas.
 
-- “Terceirizar não é perder o controle.”
-- “O problema não é só executar. É acompanhar.”
-- “Limpeza profissional não começa no produto.”
-- “Uma operação bem cuidada aparece nos detalhes.”
-- “O cliente não deveria administrar cada falta e cada troca.”
+Evitar:
 
-## Stories
+- “soluções inovadoras” sem explicação;
+- promessas absolutas;
+- números ou cases não confirmados;
+- textos que diminuam trabalhadores contratados diretamente;
+- “Você sabia?” como abertura;
+- repetição excessiva de “excelência” e “qualidade”.
 
-Os Stories terão entre 2 e 4 telas por dia e deverão alternar:
+## Direção criativa
 
-- conteúdo educativo;
-- bastidores reais;
-- enquete ou caixa de perguntas;
-- reforço do conteúdo do feed;
-- apresentação de serviço;
-- CTA comercial;
-- solicitação de interação simples.
+- paleta azul-marinho, azul-ciano, branco e cinza neutro;
+- fotografia real como elemento principal;
+- tipografia moderada, com bastante respiro;
+- grid editorial limpo;
+- sem mockup, renderização, brilho ou elementos 3D;
+- pessoas, uniformes, crachás e logos preservados;
+- post 4:5 em 1080 × 1350;
+- Reels e Stories em 1080 × 1920.
 
-Quando não houver foto ou vídeo real do dia, utilizar arte institucional ou fotografia do banco oficial compatível com o assunto.
+## Indicadores
 
-## Regras editoriais
+- alcance e visitas ao perfil;
+- salvamentos e compartilhamentos;
+- respostas, enquetes e caixas dos Stories;
+- retenção dos Reels;
+- cliques e contatos no WhatsApp;
+- pedidos de visita técnica;
+- oportunidades relacionadas à feira.
 
-- Não inventar fatos, clientes ou resultados.
-- Evitar textos genéricos e excesso de adjetivos.
-- Não usar “Você sabia?” como abertura.
-- Explicar benefícios com situações concretas.
-- Usar frases curtas nas artes.
-- Não transformar associação à Abralimp em certificação.
-- Não anunciar Higiexpo, treinamentos ou ações sociais sem confirmação.
-- Priorizar fotografia real da Serviscon.
+## Critério de sucesso
 
-## CTAs do mês
+O conteúdo será considerado eficaz quando ajudar o público a compreender a proposta da Serviscon e gerar conversas qualificadas, não apenas quando acumular curtidas.
 
-- Fale com nossa equipe.
-- Solicite um orçamento.
-- Conheça nossos serviços.
-- Tire suas dúvidas conosco.
-- Salve para consultar depois.
-- Compartilhe com quem cuida da operação.
-
-## Pendências editoriais
-
-- Participação na Higiexpo: `[AGUARDANDO INFORMAÇÃO DO CLIENTE]`.
-- Agenda de treinamentos: `[AGUARDANDO INFORMAÇÃO DO CLIENTE]`.
-- Registros de responsabilidade social: `[AGUARDANDO INFORMAÇÃO DO CLIENTE]`.
-- Cases e depoimentos autorizados: `[AGUARDANDO INFORMAÇÃO DO CLIENTE]`.
