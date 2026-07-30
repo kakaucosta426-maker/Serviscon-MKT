@@ -1,0 +1,25 @@
+{
+  "id": "AGO-08",
+  "status": "pendente_material_e_validacao",
+  "campanha": {
+    "nome": "Atualização em NR 1 e NR 6",
+    "servico": "Segurança do Trabalho",
+    "canal": "Instagram",
+    "formato": "reels_1080x1920"
+  },
+  "copy": {
+    "titulo": "Segurança se atualiza. O cuidado também.",
+    "texto_apoio": "Atualização em NR 1 e NR 6",
+    "cta": "Segurança é compromisso diário"
+  },
+  "imagem": {
+    "tipo_operacao": "aguardar_video_real",
+    "fotos_referencia": [],
+    "prompt_geracao": "Criar Reels apenas com registros reais e autorizados do treinamento. Usar textos curtos sobre prevenção, riscos e EPI. Não sugerir certificação. Preservar participantes, uniformes, sala e equipamentos.",
+    "arquivo_saida": "05_producao/design/artes_geradas/ago-08-nr1-nr6.png"
+  },
+  "aprovacao_cliente": {
+    "status": "aguardando_material_validacao_sst_e_aprovacao",
+    "producao_autorizada": false
+  }
+}
